@@ -13,5 +13,14 @@ paginate: true
 - Pourquoi les gens se sentent-ils plus ou moins touché par des valeurs différentes ?
 - Les valeurs en entreprises sont-elles culturelle ?
 - Sont elles nécessairement liée a l'activité de l'entreprise ?
+- Sont elles nécessairement liée a l'histoire de l'entreprise ?
 - Sont elles respectées en interne ?
+- On t-elle un impact sur les employés ?
+- On t-elle un impact sur les décisions stratégique ?
+
+---
+
+Anecdote valeurs personnelle et valeurs iAdvize.
+
+
 
