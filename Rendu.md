@@ -1,32 +1,38 @@
 # SSAT - Situation de départ
 __Weber Loïc IDIA4__
 
-# Les valeurs en entreprise
+# Les valeurs éthiques en entreprise
+
+## Problématique
+
+Comment sont trouvées et quelles sont l'impact de la valeur ethique environmental chez iAdvize. 
 
 ## Introduction
 
-Observer les valeurs d’une entreprise permet de rendre compte des points forts ainsi que de la direction générale de ladite entreprise.
+Observer les valeurs éthique d’une entreprise permet de rendre compte des points forts ainsi que de la direction générale de ladite entreprise.
 
-Les valeurs définissent ainsi de manière sous-jacente les croyances, les principes et la culture en interne de l’organisation. Mais influe aussi fortement sur l’image externe de l’entreprise.
+Les valeurs éthique définissent ainsi de manière sous-jacente les croyances, les principes et la culture en interne de l’organisation. Mais influe aussi fortement sur l’image externe de l’entreprise.
 
-La valeur historiquement est biologique, c’est la survie de l’homme,
-à l’apparition de la monnaie, elle devient capitale (terres, or…)
+La valeur historiquement est biologique, c’est la survie de l’homme, à l’apparition de la monnaie, elle devient capitale (terres, or…)
 Puis avec l’économie de marché, elle est devenue très financière, presque entièrement déshumanisé. De nos jours, la valeur est toujours financière, mais elle se reconnecte avec l’humain, elle est devenue culturelle, morale, éthique, sociale, environnementale…
 
 Une entreprise ne peut plus compter uniquement sur son capital financier. Exemple avec la controverse de Monsanto, l'entreprise s'est tué, car juger pour responsable d’écocide et de la vente de l’agent orange (puissant herbicide) à l’armée américaine pour la guerre du Vietnam (400 000 morts et grave blessés)
 
-## Motivation sur le sujet des valeurs
+De nos jours, les entreprises se doivent d'organiser leurs activités autour d'un ensemble de valeurs éthiques.
 
-D’un point de vue personnel, je me questionne régulièrement sur ma relation aux valeurs de mon entreprise. iAdvize est un SAAS dans l'e-commerce, son slogan est de “rendre les marques conversationnelles” Mais évidement derrière tout ça les clients de iAdvize ont tous le même objectif, augmenter leurs ventes.
+## Motivation sur le sujet des valeurs éthique
+
+D’un point de vue personnel, je me questionne régulièrement sur ma relation à l'éthique de mon entreprise. iAdvize est un SAAS dans l'e-commerce, son slogan est de “rendre les marques conversationnelles” Mais évidement derrière tout ça les clients de iAdvize ont tous le même objectif, augmenter leurs ventes.
 
 Sauf que moi, je suis fermement contre la surconsommation, je soutiens le commerce de proximité, la réparation, la réutilisation avant l’achat de produit neuf.
 
-Alors afin de comprendre les motivations de iAdvize dans ces choix de valeurs d’entreprise, j’ai choisi ce sujet.
+Alors afin de m'aider a comprendre les motivations de iAdvize dans ces choix de valeurs d’entreprise, j’ai choisi ce sujet. 
+
+Mon objectif est de mieux comprendre historiquement pourquoi les organisations ont du choisir des valeurs éthiques, ainsi que l'impact de ces valeurs éthiques. 
 
 ## Impact
 
-Comme expliqué succinctement dans l’introduction, les impacts des valeurs d’une entreprise peuvent être multiples :
-
+Comme expliqué succinctement dans l’introduction, les impacts des valeurs éthique d’une entreprise peuvent être multiples :
 
 - Interne
   - Sur le management des employés
@@ -35,7 +41,6 @@ Comme expliqué succinctement dans l’introduction, les impacts des valeurs d�
   - Sur la direction stratégique de l’entreprise
   - Sur les résultats économiques de l’entreprise (pérennité)
   - Sur le recrutement
-
 
 - Externe
   - Sur l’image de marque de la société
@@ -46,6 +51,45 @@ Comme expliqué succinctement dans l’introduction, les impacts des valeurs d�
 
 Prenons Patagonia, par exemple. Connue pour son engagement envers l’environnement, cette entreprise californienne applique ses valeurs bien au-delà du marketing. En 2019, Patagonia a donné 10 millions de dollars en crédits fiscaux reçus lors des baisses d’impôts de Trump à des projets environnementaux.
 
+## Lien avec le concept d'éthique
+
+L'éthique est un ensemble de principes moraux qui permette de construire une base de la conduite humaine.
+Sur des aspects sociaux, environmentales, humains, animales, spirituelle..
+
+L’éthique d’entreprise est l’application de principes ou de valeurs éthiques à la conduite des affaires ;
+elle concerne toutes les décisions et comportements discrétionnaires et non régulés.
+
+Les valeurs éthique d'une organisation sont choisis par des humains qui ont leur propre valeurs éthiques différentes et qui se mettent d'accord sur quelles valeurs l'entité que forme le groupe doit promouvoir et sur quelles valeurs éthique les actions de l'entreprise doivent se concentrer.
+
+"Le sujet de l’éthique d’entreprise qui n’est plus une mode pour le management, mais bien un mode de management." - Ethique responsabilité et stratégie d'entreprise - Orse
+
+## Travail d'enquete
+
+L'objectif est aussi de réaliser un enquete concréte en récoltant de la données sur le sujet de l'éthique en entreprise
+
+Dans mon enquête j'aimerais questionner les ressources humaines afin de savoir par exemple :
+- Qui a définie les valeurs ethique de mon entreprise
+- Quand ? Et sont elles mises a jour (si oui comment ?)
+- Pourquoi mon entreprise les a choisit ?
+- Pourquoi certaines sont plus mise en avant que d'autre ? (notamment dans l'entreprise en interne mais aussi sur le site de l'entreprise par exemple)
+
+Je voudrais aussi questionner les employés notamment sur :
+
+- Connaissait vous les valeurs éthique de l'entrerpise ?
+- A quelle points vous sentez vous touchés (sur 1 à 10) par rapport au valeurs éthique proposé par l'entreprise
+- Etes vous satisfait des actions entrepris par l'entreprise par rapport au valeurs éthique quelle prone ?
+- Les valeurs éthiques d'une entreprise peuvent-elles être un frein pour vous lors de votre recherche d'emploi ? 
+
+## Comment sont trouvées les valeurs éthiques ?
+
+Politique publiques
+Loi pacte pour influencer les entreprise a investire dans diverse valeurs éthiques.
+
+## Hypothèses
+
+- les valeurs éthiques ont un impact interne et externe 
+- les valeurs éthiques sont une stratégie marketing pour les entreprises
+
 ## Bibliographie
 
 - Valérie Lejeune - “Tendances économiques et sociales de la valeur en entreprise”  
@@ -54,3 +98,4 @@ Prenons Patagonia, par exemple. Connue pour son engagement envers l’environnem
 - Julia de Funes - “La comédie (in)humaine”  
 (rapport la valeur obsessionnelle du bonheur au travail dans les entreprises tech)
 
+- Orse - "Ethique responsabilité et stratégie d'entreprise"
