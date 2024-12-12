@@ -36,4 +36,31 @@ https://www.lemonde.fr/campus/article/2023/06/19/je-ne-sais-pas-combien-sont-ces
 (LAYTON : The revolt of the Engineers)
 
 
+RETOUR Ligner :
 
+- Je suis bien dans le sujet de ce qui est attendu l'objet est pertinent
+- Plusieurs vues dans l'éthique chez les gens (certains ingénieurs qui travaillent dans l'armement pense que leur activité est complétmement éthique alors quelle ne l'est pas du tout pour d'autre)
+- Pantagonia très axée environnmement mais gros badbuz usine en asie
+- ne pas être trop machievenent, en réalité aucune entreprise n'est vraiment éthique ya toujours des choses a redire (idée de ne pas angélifier une entité ou maudire une autre)
+- Attention a ne pas être trop critique mais plutôt stratégique dans ce que je dit et nottament sur ce que je dis par rapport a iadvize
+- Ingénieur et éthique ya des choses a dire, en ce qui concerne iadvize mais aussi ailleurs
+- Fanny Lederlin livre "Eloge du bricolage" -> low tech ??? <- Axe que j'aimerais exploré plus en profondeur
+- le mot impact a revoir, car une approche trop générique <- peut être a enlever de mon micro mémoire ou bien a réduire en quelque phrase.
+
+Proposition :
+
+- Aller plus loin sur les hypothèses (trop facile là) -> sujet de l'injonction de l'environnment, du groupe qui oblige certains a ne pas se rebeller fasse a certains points qui n'accepte pas. + hypothèse du besoin des ingénieur a liée un objectif industrielle a une valeur éthique même si ça ne fait pas trop de sens.
+
+- Film Rupture Arthur Gosset
+- Christelle Didier article Techniques de l'ingénieur
+- Charte éthique de l'ingénieur par la fédération des ingénieur et scientifique de france.
+
+- Voir : Les futurs obsolete article : https://usbeketrica.com/fr/article/il-faut-renoncer-aux-futurs-deja-obsoletes
+- https://www.vie-publique.fr/catalogue/284935-ou-va-la-recherche
+
+- Identifier une liste de concept qui permette de faire avancer mon sujet. <- avec mes lectures
+
+- Ne pas hesiter a alimenter mon micro mémoire avec mes lectures 15 pages mon cerveau 15 pages d'injection de ressource
+- étude statistique sur l'éthique et les ingénieur / éthique et les entreprises
+
+- La société est en nous Lignier

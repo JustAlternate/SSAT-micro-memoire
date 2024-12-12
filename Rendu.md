@@ -1,4 +1,4 @@
-# SSAT - Situation de départ
+# SSAT - Micro Mémoire
 __Weber Loïc IDIA4__
 
 # Les valeurs éthiques en entreprise
@@ -22,15 +22,17 @@ De nos jours, les entreprises se doivent d'organiser leurs activités autour d'u
 
 ## Motivation sur le sujet des valeurs éthique
 
-D’un point de vue personnel, je me questionne régulièrement sur ma relation à l'éthique de mon entreprise. iAdvize est un SAAS dans l'e-commerce, son slogan est de “rendre les marques conversationnelles” Mais évidement derrière tout ça les clients de iAdvize ont tous le même objectif, augmenter leurs ventes.
+TODO: A RETRAVAILLER POUR ETRE PLUS SOFT
 
-Sauf que moi, je suis fermement contre la surconsommation, je soutiens le commerce de proximité, la réparation, la réutilisation avant l’achat de produit neuf.
+D’un point de vue personnel, je me questionne régulièrement sur ma relation à l'éthique.
 
 Alors afin de m'aider a comprendre les motivations de iAdvize dans ces choix de valeurs d’entreprise, j’ai choisi ce sujet. 
 
 Mon objectif est de mieux comprendre historiquement pourquoi les organisations ont du choisir des valeurs éthiques, ainsi que l'impact de ces valeurs éthiques. 
 
 ## Impact
+
+TODO: Réduire
 
 Comme expliqué succinctement dans l’introduction, les impacts des valeurs éthique d’une entreprise peuvent être multiples :
 
@@ -48,6 +50,8 @@ Comme expliqué succinctement dans l’introduction, les impacts des valeurs ét
   - Dans la compétitivité de l’entreprise
   - Sur l’environnement
   - Sur la société
+
+TODO: ne pas angéliser
 
 Prenons Patagonia, par exemple. Connue pour son engagement envers l’environnement, cette entreprise californienne applique ses valeurs bien au-delà du marketing. En 2019, Patagonia a donné 10 millions de dollars en crédits fiscaux reçus lors des baisses d’impôts de Trump à des projets environnementaux.
 
@@ -68,6 +72,7 @@ Les valeurs éthique d'une organisation sont choisis par des humains qui ont leu
 L'objectif est aussi de réaliser un enquete concréte en récoltant de la données sur le sujet de l'éthique en entreprise
 
 Dans mon enquête j'aimerais questionner les ressources humaines afin de savoir par exemple :
+
 - Qui a définie les valeurs ethique de mon entreprise
 - Quand ? Et sont elles mises a jour (si oui comment ?)
 - Pourquoi mon entreprise les a choisit ?
@@ -87,8 +92,7 @@ Loi pacte pour influencer les entreprise a investire dans diverse valeurs éthiq
 
 ## Hypothèses
 
-- les valeurs éthiques ont un impact interne et externe 
-- les valeurs éthiques sont une stratégie marketing pour les entreprises
+- Les ingénieurs ont besoin de relier les objectifs de leur entreprise a une valeur éthique pour ne pas se sentir aliéné dans le travail
 
 ## Bibliographie
 
@@ -99,3 +103,5 @@ Loi pacte pour influencer les entreprise a investire dans diverse valeurs éthiq
 (rapport la valeur obsessionnelle du bonheur au travail dans les entreprises tech)
 
 - Orse - "Ethique responsabilité et stratégie d'entreprise"
+
+TODO: Ajouter mes lectures
