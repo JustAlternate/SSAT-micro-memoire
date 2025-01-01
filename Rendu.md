@@ -1,107 +1,80 @@
 # SSAT - Micro Mémoire
-__Weber Loïc IDIA4__
+
+**Weber Loïc IDIA4**
 
 # Les valeurs éthiques en entreprise
 
 ## Problématique
 
-Comment sont trouvées et quelles sont l'impact de la valeur ethique environmental chez iAdvize. 
+Comment sont déterminées les valeurs éthiques environnementales chez iAdvize, et quels en sont les impacts ?
 
 ## Introduction
 
-Observer les valeurs éthique d’une entreprise permet de rendre compte des points forts ainsi que de la direction générale de ladite entreprise.
+Observer les valeurs éthiques d’une entreprise permet de mettre en évidence ses points forts ainsi que sa direction générale.
 
-Les valeurs éthique définissent ainsi de manière sous-jacente les croyances, les principes et la culture en interne de l’organisation. Mais influe aussi fortement sur l’image externe de l’entreprise.
+Ces valeurs définissent de manière sous-jacente les croyances, les principes et la culture interne de l’organisation. Elles influencent également fortement son image externe.
 
-La valeur historiquement est biologique, c’est la survie de l’homme, à l’apparition de la monnaie, elle devient capitale (terres, or…)
-Puis avec l’économie de marché, elle est devenue très financière, presque entièrement déshumanisé. De nos jours, la valeur est toujours financière, mais elle se reconnecte avec l’humain, elle est devenue culturelle, morale, éthique, sociale, environnementale…
+Historiquement, la notion de valeur était biologique, associée à la survie humaine. Avec l'apparition de la monnaie, elle est devenue un capital (terres, or…). Puis, dans l’économie de marché, elle s’est largement financiarisée, perdant une grande partie de son lien avec l'humain. Aujourd'hui, bien qu'encore financières, les valeurs retrouvent une dimension humaine, devenant également culturelles, morales, éthiques, sociales et environnementales.
 
-Une entreprise ne peut plus compter uniquement sur son capital financier. Exemple avec la controverse de Monsanto, l'entreprise s'est tué, car juger pour responsable d’écocide et de la vente de l’agent orange (puissant herbicide) à l’armée américaine pour la guerre du Vietnam (400 000 morts et grave blessés)
+Une entreprise ne peut plus se contenter uniquement de son capital financier. Prenons l’exemple de Monsanto, une entreprise dont la réputation a été gravement ternie par des accusations d’écocide et par la vente de l’agent orange à l’armée américaine pendant la guerre du Vietnam, causant de lourdes conséquences humaines et environnementales.
 
-De nos jours, les entreprises se doivent d'organiser leurs activités autour d'un ensemble de valeurs éthiques.
+De nos jours, les entreprises doivent structurer leurs activités autour de valeurs éthiques.
 
-## Motivation sur le sujet des valeurs éthique
+## Motivation sur le sujet des valeurs éthiques
 
-TODO: A RETRAVAILLER POUR ETRE PLUS SOFT
+D’un point de vue personnel, je me questionne régulièrement sur ma relation en tant que futur ingénieur au travail et à l’éthique.
 
-D’un point de vue personnel, je me questionne régulièrement sur ma relation à l'éthique.
-
-Alors afin de m'aider a comprendre les motivations de iAdvize dans ces choix de valeurs d’entreprise, j’ai choisi ce sujet. 
-
-Mon objectif est de mieux comprendre historiquement pourquoi les organisations ont du choisir des valeurs éthiques, ainsi que l'impact de ces valeurs éthiques. 
+Mon objectif est d’étudier pourquoi les organisations, historiquement et stratégiquement, ont choisi d’adopter des valeurs éthiques, et d’analyser les impacts de ces valeurs.
 
 ## Impact
 
-TODO: Réduire
+Les valeurs éthiques d’une entreprise influencent autant son fonctionnement interne que son image externe. Elles participent au management, à l’innovation, à la stratégie, et impactent directement la perception de l’entreprise par ses clients et la société.
 
-Comme expliqué succinctement dans l’introduction, les impacts des valeurs éthique d’une entreprise peuvent être multiples :
+## Lien avec le concept d’éthique
 
-- Interne
-  - Sur le management des employés
-  - Dans le relationnel entre employés
-  - Dans l’opérationnelle (efficacité, innovation, amélioration continue)
-  - Sur la direction stratégique de l’entreprise
-  - Sur les résultats économiques de l’entreprise (pérennité)
-  - Sur le recrutement
+L’éthique est un ensemble de principes moraux qui constitue une base pour la conduite humaine, incluant des aspects sociaux, environnementaux, humains, animaux et spirituels.
 
-- Externe
-  - Sur l’image de marque de la société
-  - Sur la qualité du produit de l’entreprise
-  - Dans la compétitivité de l’entreprise
-  - Sur l’environnement
-  - Sur la société
+Dans le contexte de l’entreprise, l’éthique correspond à l’application de ces principes à la conduite des affaires. Cela englobe toutes les décisions et comportements discrétionnaires non réglementés.
 
-TODO: ne pas angéliser
+Les valeurs éthiques d'une organisation sont choisies par des individus ayant chacun leurs propres valeurs. Ensemble, ils déterminent les valeurs que l’organisation doit promouvoir et celles sur lesquelles ses actions doivent se concentrer.
 
-Prenons Patagonia, par exemple. Connue pour son engagement envers l’environnement, cette entreprise californienne applique ses valeurs bien au-delà du marketing. En 2019, Patagonia a donné 10 millions de dollars en crédits fiscaux reçus lors des baisses d’impôts de Trump à des projets environnementaux.
+« Le sujet de l’éthique d’entreprise n’est plus une mode pour le management, mais bien un mode de management. » - *Ethique, responsabilité et stratégie d'entreprise*, Orse.
 
-## Lien avec le concept d'éthique
+## Protocole de Recherche
 
-L'éthique est un ensemble de principes moraux qui permette de construire une base de la conduite humaine.
-Sur des aspects sociaux, environmentales, humains, animales, spirituelle..
+Pour étudier les valeurs éthiques chez iAdvize, une méthode de recherche organisée guidera les différentes étapes de l’étude. L’enquête comportera deux volets principaux :
 
-L’éthique d’entreprise est l’application de principes ou de valeurs éthiques à la conduite des affaires ;
-elle concerne toutes les décisions et comportements discrétionnaires et non régulés.
+1. **Interroger les ressources humaines :**
 
-Les valeurs éthique d'une organisation sont choisis par des humains qui ont leur propre valeurs éthiques différentes et qui se mettent d'accord sur quelles valeurs l'entité que forme le groupe doit promouvoir et sur quelles valeurs éthique les actions de l'entreprise doivent se concentrer.
+   - Identifier les personnes ayant défini les valeurs éthiques de l’entreprise.
+   - Comprendre le processus de création de ces valeurs, ainsi que leur mise à jour éventuelle.
+   - Analyser les motivations derrière le choix de ces valeurs et pourquoi certaines sont plus mises en avant que d’autres, que ce soit en interne ou dans la communication externe de l’entreprise.
 
-"Le sujet de l’éthique d’entreprise qui n’est plus une mode pour le management, mais bien un mode de management." - Ethique responsabilité et stratégie d'entreprise - Orse
+2. **Sonder les employés :**
 
-## Travail d'enquete
+   - Évaluer leur connaissance des valeurs éthiques de l’entreprise.
+   - Mesurer leur niveau de connexion et d’engagement avec ces valeurs (via une échelle de 1 à 10).
+   - Recueillir leur satisfaction concernant les actions concrètes mises en place par l’entreprise en lien avec leurs propres valeurs.
 
-L'objectif est aussi de réaliser un enquete concréte en récoltant de la données sur le sujet de l'éthique en entreprise
-
-Dans mon enquête j'aimerais questionner les ressources humaines afin de savoir par exemple :
-
-- Qui a définie les valeurs ethique de mon entreprise
-- Quand ? Et sont elles mises a jour (si oui comment ?)
-- Pourquoi mon entreprise les a choisit ?
-- Pourquoi certaines sont plus mise en avant que d'autre ? (notamment dans l'entreprise en interne mais aussi sur le site de l'entreprise par exemple)
-
-Je voudrais aussi questionner les employés notamment sur :
-
-- Connaissait vous les valeurs éthique de l'entrerpise ?
-- A quelle points vous sentez vous touchés (sur 1 à 10) par rapport au valeurs éthique proposé par l'entreprise
-- Etes vous satisfait des actions entrepris par l'entreprise par rapport au valeurs éthique quelle prone ?
-- Les valeurs éthiques d'une entreprise peuvent-elles être un frein pour vous lors de votre recherche d'emploi ? 
+Ces étapes permettront de recueillir des données qualitatives et quantitatives pour analyser l’importance des valeurs éthiques dans l’environnement de travail chez iAdvize.
 
 ## Comment sont trouvées les valeurs éthiques ?
 
-Politique publiques
-Loi pacte pour influencer les entreprise a investire dans diverse valeurs éthiques.
+Les valeurs éthiques d’une entreprise sont généralement le fruit d’un équilibre entre des facteurs internes et externes. Elles reflètent à la fois les convictions personnelles des dirigeants, les attentes des employés et les pressions externes exercées par les parties prenantes. Les lois et politiques publiques, telles que la loi PACTE, encouragent les entreprises à investir dans des initiatives responsables et éthiques, favorisant une vision stratégique à long terme. Par ailleurs, les évolutions sociétales et les attentes des consommateurs pour des pratiques durables jouent un rôle central dans la définition et l’adoption de ces valeurs. Enfin, les investisseurs, de plus en plus soucieux de critères environnementaux, sociaux et de gouvernance (ESG), influencent également les choix des organisations.
 
 ## Hypothèses
 
-- Les ingénieurs ont besoin de relier les objectifs de leur entreprise a une valeur éthique pour ne pas se sentir aliéné dans le travail
+- Les employés, en particulier les ingénieurs, ont besoin d’associer les objectifs de leur entreprise à des valeurs éthiques pour éviter un sentiment d’aliénation au travail.
 
 ## Bibliographie
 
-- Valérie Lejeune - “Tendances économiques et sociales de la valeur en entreprise”  
-(histoire de la notion de valeur en entreprise + d’autres concepts, mais inaccessible sans achat du livre)
+- Valérie Lejeune - *Tendances économiques et sociales de la valeur en entreprise*
+- Julia de Funes - *La comédie (in)humaine*
+- Orse - *Ethique, responsabilité et stratégie d’entreprise*
 
-- Julia de Funes - “La comédie (in)humaine”  
-(rapport la valeur obsessionnelle du bonheur au travail dans les entreprises tech)
+* [« Je ne sais pas combien sont ces ingénieurs qui doutent, mais mon expérience me laisse penser qu’ils sont de plus en plus nombreux » - Le Monde](https://www.lemonde.fr/campus/article/2023/06/19/je-ne-sais-pas-combien-sont-ces-ingenieurs-qui-doutent-mais-mon-experience-me-laisse-penser-qu-ils-sont-de-plus-en-plus-nombreux_6178318_4401467.html)
 
-- Orse - "Ethique responsabilité et stratégie d'entreprise"
+* [Les bifurqueurs : ces étudiants ingénieurs qui poussent leur école à s’adapter à l’urgence climatique - France Info](https://www.radiofrance.fr/franceinfo/podcasts/les-documents-franceinfo/les-bifurqueurs-ces-etudiants-ingenieurs-qui-poussent-leur-ecole-a-s-adapter-a-l-urgence-climatique-2776641)
 
-TODO: Ajouter mes lectures
+* [Discours d'un ingénieur qui doute - Emilien Chevalier](https://www.youtube.com/watch?v=OoUwfJuwPX8)
+
