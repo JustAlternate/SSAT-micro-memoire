@@ -100,7 +100,7 @@ Parmis les pressions externe on notera :
 
 - Les employés, en particulier les ingénieurs, ont besoin d’associer les objectifs de leur entreprise à des valeurs éthiques pour éviter un sentiment d’aliénation au travail.
 
-- Soucieux des enjeux écologiques et sociaux actuels, les jeunes ingénieurs tendent à se détourner des secteurs axés sur des innovations futuristes pour privilégier des organisations qui tentent de répondre concrètement aux problématiques actuelles et qui mettent l’humain et au coeur de leur démarche.
+- Soucieux des enjeux écologiques et sociaux actuels, les jeunes ingénieurs tendent à se détourner des secteurs axés sur des innovations futuristes pour privilégier des organisations qui tentent de répondre concrètement aux problématiques actuelles et qui mettent l’humain au coeur de leur démarche.
 
 ## Bibliographie
 
