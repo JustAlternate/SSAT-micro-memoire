@@ -1,8 +1,26 @@
-# SSAT - Micro Mémoire
+---
+documentclass: extarticle
+fontsize: 12pt
+pagestyle: empty
+---
 
 **Weber Loïc IDIA4**
 
 # Les valeurs éthiques en entreprise
+
+Table des matières
+=================
+
+* [Les valeurs éthiques en entreprise](#les-valeurs-éthiques-en-entreprise)
+  * [Problématique](#problématique)
+  * [Introduction](#introduction)
+  * [Motivation sur le sujet des valeurs éthiques](#motivation-sur-le-sujet-des-valeurs-éthiques)
+  * [Impact](#impact)
+  * [Lien avec le concept d’éthique](#lien-avec-le-concept-déthique)
+  * [Protocole de Recherche](#protocole-de-recherche)
+  * [Comment sont trouvées les valeurs éthiques ?](#comment-sont-trouvées-les-valeurs-éthiques-)
+  * [Hypothèses](#hypothèses)
+  * [Bibliographie](#bibliographie)
 
 ## Problématique
 
@@ -18,7 +36,11 @@ Historiquement, la notion de valeur était biologique, associée à la survie hu
 
 Une entreprise ne peut plus se contenter uniquement de son capital financier. Prenons l’exemple de Monsanto, une entreprise dont la réputation a été gravement ternie par des accusations d’écocide et par la vente de l’agent orange à l’armée américaine pendant la guerre du Vietnam, causant de lourdes conséquences humaines et environnementales.
 
-De nos jours, les entreprises doivent structurer leurs activités autour de valeurs éthiques.
+L'exemple de Monsanto peut sembler extrème, mais de nos jours, les entreprises se voient dans l'obligation de structurer leurs activités autour de valeurs éthiques.
+
+> Réfléchir à la notion de valeur en entreprise permet de rendre compte des atouts et attraits de l’entreprise au présent, mais aussi et surtout de rassurer les employés, managers et investisseurs sur sa pérennité.
+
+- "Tendances économiques et sociales de la valeur en entreprise" de Valérie Lejeune
 
 ## Motivation sur le sujet des valeurs éthiques
 
@@ -32,7 +54,7 @@ Les valeurs éthiques d’une entreprise influencent autant son fonctionnement i
 
 ## Lien avec le concept d’éthique
 
-L’éthique est un ensemble de principes moraux qui constitue une base pour la conduite humaine, incluant des aspects sociaux, environnementaux, humains, animaux et spirituels.
+L’éthique est un ensemble de principes moraux qui constitue une base pour la conduite humaine, incluant des aspects sociaux, environnementaux, humains, animale et spirituels.
 
 Dans le contexte de l’entreprise, l’éthique correspond à l’application de ces principes à la conduite des affaires. Cela englobe toutes les décisions et comportements discrétionnaires non réglementés.
 
@@ -60,11 +82,25 @@ Ces étapes permettront de recueillir des données qualitatives et quantitatives
 
 ## Comment sont trouvées les valeurs éthiques ?
 
-Les valeurs éthiques d’une entreprise sont généralement le fruit d’un équilibre entre des facteurs internes et externes. Elles reflètent à la fois les convictions personnelles des dirigeants, les attentes des employés et les pressions externes exercées par les parties prenantes. Les lois et politiques publiques, telles que la loi PACTE, encouragent les entreprises à investir dans des initiatives responsables et éthiques, favorisant une vision stratégique à long terme. Par ailleurs, les évolutions sociétales et les attentes des consommateurs pour des pratiques durables jouent un rôle central dans la définition et l’adoption de ces valeurs. Enfin, les investisseurs, de plus en plus soucieux de critères environnementaux, sociaux et de gouvernance (ESG), influencent également les choix des organisations.
+Les valeurs éthiques d’une entreprise sont généralement le fruit d’un équilibre entre des facteurs internes et externes.
+
+Elles reflètent à la fois les convictions personnelles des dirigeants, les attentes des employés et les pressions externes exercées sur l'entreprise.
+
+Parmis les pressions externe on notera :
+
+- Les lois et politiques publiques, telles que la loi PACTE loi du 22 mai 2019 relative à la croissance et la transformation des entreprises qui ambitionne de donner aux entreprises les moyens d’innover, de se transformer, de grandir et de créer des emplois. favorisant une vision stratégique à long terme.
+
+- Les évolutions sociétales et les attentes des consommateurs pour des pratiques durables jouent un rôle central dans la définition et l’adoption de ces valeurs.
+
+- Les investisseurs de plus en plus soucieux de critères environnementaux, sociaux et de gouvernance (ESG), influencent également les choix des organisations.
+
+- Le recrutement de nouveaux employés : Les candidats, notamment parmi les jeunes générations, accordent une importance croissante à l’éthique, à la diversité et à l’impact sociétal des organisations. Cette tendance pousse les entreprises à adapter et promouvoir leurs valeurs éthiques pour répondre aux attentes des talents qu’elles souhaitent intégrer.
 
 ## Hypothèses
 
 - Les employés, en particulier les ingénieurs, ont besoin d’associer les objectifs de leur entreprise à des valeurs éthiques pour éviter un sentiment d’aliénation au travail.
+
+- Soucieux des enjeux écologiques et sociaux actuels, les jeunes ingénieurs tendent à se détourner des secteurs axés sur des innovations futuristes pour privilégier des organisations qui tentent de répondre concrètement aux problématiques actuelles et qui mettent l’humain et au coeur de leur démarche.
 
 ## Bibliographie
 
@@ -72,9 +108,14 @@ Les valeurs éthiques d’une entreprise sont généralement le fruit d’un éq
 - Julia de Funes - *La comédie (in)humaine*
 - Orse - *Ethique, responsabilité et stratégie d’entreprise*
 
+- [Charte éthique de l'ingénieur par la société des ingénieurs et scientifiques de france](https://www.iesf.fr/offres/doc_inline_src/752/150731_Charte_ethique.pdf)
+
 * [« Je ne sais pas combien sont ces ingénieurs qui doutent, mais mon expérience me laisse penser qu’ils sont de plus en plus nombreux » - Le Monde](https://www.lemonde.fr/campus/article/2023/06/19/je-ne-sais-pas-combien-sont-ces-ingenieurs-qui-doutent-mais-mon-experience-me-laisse-penser-qu-ils-sont-de-plus-en-plus-nombreux_6178318_4401467.html)
 
 * [Les bifurqueurs : ces étudiants ingénieurs qui poussent leur école à s’adapter à l’urgence climatique - France Info](https://www.radiofrance.fr/franceinfo/podcasts/les-documents-franceinfo/les-bifurqueurs-ces-etudiants-ingenieurs-qui-poussent-leur-ecole-a-s-adapter-a-l-urgence-climatique-2776641)
 
 * [Discours d'un ingénieur qui doute - Emilien Chevalier](https://www.youtube.com/watch?v=OoUwfJuwPX8)
 
+* [Discours d'un collectif d'ingénieur diplomé d'AgroParisTech](https://www.youtube.com/watch?v=SUOVOC2Kd50)
+
+* [Discours Remise des Diplômes 2018 Centrale Nantes](https://www.youtube.com/watch?v=3LvTgiWSAAE)
