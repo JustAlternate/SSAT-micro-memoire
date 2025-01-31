@@ -80,6 +80,23 @@ Pour étudier les valeurs éthiques chez iAdvize, une méthode de recherche orga
 
 Ces étapes permettront de recueillir des données qualitatives et quantitatives pour analyser l’importance des valeurs éthiques dans l’environnement de travail chez iAdvize.
 
+### les 5 questions posée au ressources humaines : 
+
+1. Qui défini les valeurs chez iAdvize ? (Quand, Comment...)
+2. Est ce que les valeurs de iAdvize on changé depuis sa création ? si oui, a quelle fréquence sont elles mise à jour ?
+3. Quelles sont les différentes méthodes que vous utiliser pour faire rayoner les valeurs chez les employés et aux parties prenantes externes ?
+4. Est ce que l'on peut retrouver une liste des actions entreprise par iAdvize vis a vis de ces valeurs ?
+5. Ya t'il une hiérarchie dans l'importance des différentes valeurs de iAdvize ?
+
+### les 5 questions posée au employées : 
+
+1. Quelles sont vos valeurs éthiques personnelles ? (Exemples: Intégrité, Respect, Équité, Responsabilité, Transparence, Confidentialité, Loi, Éthique, Environnement, Diversité, Sécurité, Qualité, Innovation, Communication, Accountabilité, Égalité, Vie privée, Intégrité financière, Responsabilité sociale, Développement durable)
+2. Comment vous sentez-vous concernant les valeurs éthiques de l’entreprise? (Learning organization, Entrepreneur spirit, Committed for better, Fun as a must have)
+3. Quelle est votre échelle de connexion avec les valeurs éthiques de l’entreprise (de 1 à 10)?
+4. Quelles sont les actions concrètes que vous avez constatées être mises en place par l’entreprise en lien avec ces valeurs?
+5. Quelle est votre satisfaction concernant ces actions concrètes et pensez-vous qu’elles correspondent à vos propres valeurs?
+
+
 ## Comment sont trouvées les valeurs éthiques ?
 
 Les valeurs éthiques d’une entreprise sont généralement le fruit d’un équilibre entre des facteurs internes et externes.

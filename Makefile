@@ -7,3 +7,6 @@ toc:
 pdf:
 	pandoc README.md -s -o Rendu.pdf \
 	-V geometry:margin=1.3in \
+
+clean:
+	rm -rf Rendu.pdf
