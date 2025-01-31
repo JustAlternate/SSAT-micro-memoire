@@ -1,5 +1,9 @@
 # Introduction
 
+Mon micro mémoire est sur le sujet de la valeur éthique en entreprise.
+
+Donner un contexte historique (mon entreprise, parler de avant micro mémoire (photodoc sujet du bonheur au travail)
+
 Observer les valeurs éthiques d’une entreprise permet de mettre en évidence ses points forts ainsi que sa direction générale.
 
 > Réfléchir à la notion de valeur en entreprise permet de rendre compte des atouts et attraits de l’entreprise au présent, mais aussi et surtout de rassurer les employés, managers et investisseurs sur sa pérennité.
