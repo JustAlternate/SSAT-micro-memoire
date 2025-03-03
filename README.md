@@ -90,12 +90,11 @@ Ces étapes permettront de recueillir des données qualitatives et quantitatives
 
 ### les 5 questions posée au employées : 
 
-1. Quelles sont vos valeurs éthiques personnelles ? (Exemples: Intégrité, Respect, Équité, Responsabilité, Transparence, Confidentialité, Loi, Éthique, Environnement, Diversité, Sécurité, Qualité, Innovation, Communication, Accountabilité, Égalité, Vie privée, Intégrité financière, Responsabilité sociale, Développement durable)
-2. Comment vous sentez-vous concernant les valeurs éthiques de l’entreprise? (Learning organization, Entrepreneur spirit, Committed for better, Fun as a must have)
+1. Quelles sont vos valeurs éthiques personnelles ? (Exemples: Intégrité, Respect, Équité, Responsabilité, Transparence, Confidentialité, Loi, Environnement, Diversité, Sécurité, Qualité, Innovation, Communication, Accountabilité, Égalité, Vie privée, Intégrité financière, Responsabilité sociale, Développement durable, Aucune)
+2. Que pensez vous des différentes valeurs éthiques de l’entreprise? (Learning organization, Entrepreneur spirit, Committed for better, Fun as a must have)
 3. Quelle est votre échelle de connexion avec les valeurs éthiques de l’entreprise (de 1 à 10)?
-4. Quelles sont les actions concrètes que vous avez constatées être mises en place par l’entreprise en lien avec ces valeurs?
+4. Quelles sont les actions concrètes que vous avez retenus être mises en place par l’entreprise?
 5. Quelle est votre satisfaction concernant ces actions concrètes et pensez-vous qu’elles correspondent à vos propres valeurs?
-
 
 ## Comment sont trouvées les valeurs éthiques ?
 
@@ -105,7 +104,7 @@ Elles reflètent à la fois les convictions personnelles des dirigeants, les att
 
 Parmis les pressions externe on notera :
 
-- Les lois et politiques publiques, telles que la loi PACTE loi du 22 mai 2019 relative à la croissance et la transformation des entreprises qui ambitionne de donner aux entreprises les moyens d’innover, de se transformer, de grandir et de créer des emplois. favorisant une vision stratégique à long terme.
+- Les lois et politiques publiques, telles que la loi PACTE du 22 mai 2019 ou encore du plan France 2030 relative à la croissance et la transformation des entreprises qui ambitionne de donner aux entreprises les moyens d’innover, de se transformer, de grandir et de créer des emplois. favorisant une vision stratégique à long terme.
 
 - Les évolutions sociétales et les attentes des consommateurs pour des pratiques durables jouent un rôle central dans la définition et l’adoption de ces valeurs.
 
@@ -119,17 +118,73 @@ Parmis les pressions externe on notera :
 
 - Soucieux des enjeux écologiques et sociaux actuels, les jeunes ingénieurs tendent à se détourner des secteurs axés sur des innovations futuristes pour privilégier des organisations qui tentent de répondre concrètement aux problématiques actuelles et qui mettent l’humain au coeur de leur démarche.
 
+## La hierarchie des valeurs chez iAdvize
+
+iAdvize possède 4 valeurs :
+
+1) Fun as a must have (bonheur au travail)
+2) Committed for better (inclusion, egalité au travail)
+3) Entrepreneur Spirit (encourage l'autonomie, flexibilité et l'initiative)
+4) Learning organization (encourage l'apprentissage, le developpement personel des employés)
+
+Voici l'ordre dans lesquelles ces valeurs sont présenté sur le site internet de iAdvize.
+
+Depuis 1 an est demie chez iAdvize j'ai pu voir le rayonnement de toutes ces valeurs.
+
+Officiellement ce sont les 4 valeurs d'iadvize, mais dans les fait, l'entreprise s'engage aussi sur d'autre terrains comme par exemple l'écologie, publiquement ou en interne.
+L'environnement est une valeur forte chez iAdvize. Avec une dizaine d'affiches dans les bureaux, l'opération fresque du climat qui est un temps de 3h que tous les employés de l'entreprise ont suivis...
+
+[Attendre resultat sondage pour savoir si les valeurs de l'entreprise ont réelement une hiérarchie ou bien si c'est mon observation qui est biaisé]
+
+## L'importance d'un cadre éthique pour les ingénieur en informatique
+
+Extrait de "Figure inspirante pour la formation en éthique des ingénieurs" :
+
+> Une des raisons profondes de notre incapacité de comprendre est liée selon
+Hannah Arendt à l’usage d’un « langage » de symboles mathématiques. Au début,
+écrit-elle, cet usage avait comme but de simplifier la communication en concevant
+des abréviations pour des propositions d’énoncés formulables par la parole. Il
+« contient à présent des propositions absolument intraduisibles dans le langage »
+(Arendt, 1961/1958 : 3) Ainsi, si les scientifiques n’ont pas refusé de développer
+des armes nucléaires, ce n’est pas d’abord, selon elle, par manque de caractère ou
+de courage ou encore par naïveté, parce qu’« ils n’auraient pas compris qu’une
+fois ces armes inventées ils seraient les derniers consultés sur leur emploi ». Ils
+n’ont pas refusé de poursuivre leur recherche, parce qu’« ils évoluaient dans un
+monde où le langage a perdu son pouvoir. Et toute action de l’homme, tout savoir,
+toute expérience n’a de sens que dans la mesure où l’on peut en parler ». 
+
+Ici on peut voir de manière flagrante une analogie avec les languages de programmation qui comme le language mathématique contient des propositions intraduisibles dans le langage.
+
+Exemple extrait du kernel Linux (projet open source qui constitue la base de l'extreme majorité des systèmes d'exploitation utilisés, notamment les serveurs, les appareils mobiles, les systèmes embarqués..)
+
+```C
+BPF_CALL_3(bpf_probe_read_compat_str, void *, dst, u32, size,
+	   const void *, unsafe_ptr)
+{
+	if ((unsigned long)unsafe_ptr < TASK_SIZE) {
+		return bpf_probe_read_user_str_common(dst, size,
+				(__force void __user *)unsafe_ptr);
+	}
+	return bpf_probe_read_kernel_str_common(dst, size, unsafe_ptr);
+}
+```
+
+Ainsi l'ingénieur informaticien peut se retrouver concepteur d'un systeme dont il ne peux comprendre pleinement les conséquences. Cela souligne l'importance d'un cadre éthique pour les ingénieurs en informatique, car ils peuvent créer des systèmes complexes sans toujours comprendre les implications éthiques de leur travail.
+
 ## Bibliographie
 
 - Valérie Lejeune - *Tendances économiques et sociales de la valeur en entreprise*
 - Julia de Funes - *La comédie (in)humaine*
 - Orse - *Ethique, responsabilité et stratégie d’entreprise*
+- Christelle Didier - *Hannah Arendt, figure inspirante pour la formation en éthique des ingénieurs*
 
 - [Charte éthique de l'ingénieur par la société des ingénieurs et scientifiques de france](https://www.iesf.fr/offres/doc_inline_src/752/150731_Charte_ethique.pdf)
 
 * [« Je ne sais pas combien sont ces ingénieurs qui doutent, mais mon expérience me laisse penser qu’ils sont de plus en plus nombreux » - Le Monde](https://www.lemonde.fr/campus/article/2023/06/19/je-ne-sais-pas-combien-sont-ces-ingenieurs-qui-doutent-mais-mon-experience-me-laisse-penser-qu-ils-sont-de-plus-en-plus-nombreux_6178318_4401467.html)
 
 * [Les bifurqueurs : ces étudiants ingénieurs qui poussent leur école à s’adapter à l’urgence climatique - France Info](https://www.radiofrance.fr/franceinfo/podcasts/les-documents-franceinfo/les-bifurqueurs-ces-etudiants-ingenieurs-qui-poussent-leur-ecole-a-s-adapter-a-l-urgence-climatique-2776641)
+
+* [Le plan France 2030](https://www.entreprises.gouv.fr/priorites-et-actions/transition-numerique/soutenir-le-developpement-de-lia-au-service-de-leconomie)
 
 * [Discours d'un ingénieur qui doute - Emilien Chevalier](https://www.youtube.com/watch?v=OoUwfJuwPX8)
 
