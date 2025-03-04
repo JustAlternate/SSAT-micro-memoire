@@ -19,9 +19,9 @@ Table des matières
   * [Impact](#impact)
   * [Lien avec le concept d'éthique](#lien-avec-le-concept-déthique)
   * [Protocole de Recherche](#protocole-de-recherche)
-    * [Les 5 questions posées aux ressources humaines :](#les-5-questions-posées-aux-ressources-humaines-)
-    * [Les 5 questions posées aux employés :](#les-5-questions-posées-aux-employés-)
-  * [Comment sont trouvées les valeurs éthiques ?](#comment-sont-trouvées-les-valeurs-éthiques-)
+    * [Les 5 questions posées aux ressources humaines :](#les-5-questions-posées-aux-ressources-humaines)
+    * [Les 5 questions posées aux employés :](#les-5-questions-posées-aux-employés)
+  * [Comment sont trouvées les valeurs éthiques ?](#comment-sont-trouvées-les-valeurs-éthiques)
   * [Hypothèses](#hypothèses)
   * [La hiérarchie des valeurs chez iAdvize](#la-hiérarchie-des-valeurs-chez-iadvize)
   * [L'importance d'un cadre éthique pour les ingénieurs en informatique](#limportance-dun-cadre-éthique-pour-les-ingénieurs-en-informatique)
@@ -85,7 +85,7 @@ Pour étudier les valeurs éthiques chez iAdvize, une méthode de recherche orga
 
 Ces étapes permettront de recueillir des données qualitatives et quantitatives pour analyser l'importance des valeurs éthiques dans l'environnement de travail chez iAdvize.
 
-### Les 5 questions posées aux ressources humaines : 
+### Les 5 questions posées aux ressources humaines
 
 1. Qui définit les valeurs chez iAdvize ? (Quand, Comment...)
 2. Est-ce que les valeurs d'iAdvize ont changé depuis sa création ? Si oui, à quelle fréquence sont-elles mises à jour ?
@@ -93,7 +93,7 @@ Ces étapes permettront de recueillir des données qualitatives et quantitatives
 4. Est-ce que l'on peut retrouver une liste des actions entreprises par iAdvize vis-à-vis de ces valeurs ?
 5. Y a-t-il une hiérarchie dans l'importance des différentes valeurs d'iAdvize ?
 
-### Les 5 questions posées aux employés : 
+### Les 5 questions posées aux employés
 
 1. Quelles sont vos valeurs éthiques personnelles ? (Exemples: Intégrité, Respect, Équité, Responsabilité, Transparence, Confidentialité, Loi, Environnement, Diversité, Sécurité, Qualité, Innovation, Communication, Accountabilité, Égalité, Vie privée, Intégrité financière, Responsabilité sociale, Développement durable, Aucune)
 2. Que pensez-vous des différentes valeurs éthiques de l'entreprise? (Learning organization, Entrepreneur spirit, Committed for better, Fun as a must have)
@@ -101,7 +101,7 @@ Ces étapes permettront de recueillir des données qualitatives et quantitatives
 4. Quelles sont les actions concrètes que vous avez retenues être mises en place par l'entreprise?
 5. Quelle est votre satisfaction concernant ces actions concrètes et pensez-vous qu'elles correspondent à vos propres valeurs?
 
-## Comment sont trouvées les valeurs éthiques ?
+## Comment sont trouvées les valeurs éthiques
 
 Les valeurs éthiques d'une entreprise sont généralement le fruit d'un équilibre entre des facteurs internes et externes.
 
