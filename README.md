@@ -12,14 +12,19 @@ Table des matières
 =================
 
 * [Les valeurs éthiques en entreprise](#les-valeurs-éthiques-en-entreprise)
+* [Table des matières](#table-des-matières)
   * [Problématique](#problématique)
   * [Introduction](#introduction)
   * [Motivation sur le sujet des valeurs éthiques](#motivation-sur-le-sujet-des-valeurs-éthiques)
   * [Impact](#impact)
   * [Lien avec le concept d'éthique](#lien-avec-le-concept-déthique)
   * [Protocole de Recherche](#protocole-de-recherche)
+    * [Les 5 questions posées aux ressources humaines :](#les-5-questions-posées-aux-ressources-humaines-)
+    * [Les 5 questions posées aux employés :](#les-5-questions-posées-aux-employés-)
   * [Comment sont trouvées les valeurs éthiques ?](#comment-sont-trouvées-les-valeurs-éthiques-)
   * [Hypothèses](#hypothèses)
+  * [La hiérarchie des valeurs chez iAdvize](#la-hiérarchie-des-valeurs-chez-iadvize)
+  * [L'importance d'un cadre éthique pour les ingénieurs en informatique](#limportance-dun-cadre-éthique-pour-les-ingénieurs-en-informatique)
   * [Bibliographie](#bibliographie)
 
 ## Problématique
@@ -132,8 +137,9 @@ Voici l'ordre dans lequel ces valeurs sont présentées sur le site Internet d'i
 [Je vais attendre les résultats d'un sondage pour savoir si les valeurs de l'entreprise ont réellement une hiérarchie ou si c'est mon observation qui est biaisée.]
 
 ## L'importance d'un cadre éthique pour les ingénieurs en informatique
-Extrait de "Figure inspirante pour la formation en éthique des ingénieurs" :
 > Une des raisons profondes de notre incapacité à comprendre est liée, selon Hannah Arendt, à l'usage d'un "langage" de symboles mathématiques. Au début, écrit-elle, cet usage avait pour but de simplifier la communication en concevant des abréviations pour des propositions d'énoncés formulables par la parole. Il "contient à présent des propositions absolument intraduisibles dans le langage" (Arendt, 1961/1958 : 3). Ainsi, si les scientifiques n'ont pas refusé de développer des armes nucléaires, ce n'est pas d'abord, selon elle, par manque de caractère ou de courage ou encore par naïveté, parce qu'"ils n'auraient pas compris qu'une fois ces armes inventées, ils seraient les derniers consultés sur leur emploi". Ils n'ont pas refusé de poursuivre leur recherche parce qu'"ils évoluaient dans un monde où le langage a perdu son pouvoir. Et toute action de l'homme, tout savoir, toute expérience n'a de sens que dans la mesure où l'on peut en parler".
+
+- "Figure inspirante pour la formation en éthique des ingénieurs" de Christelle Didier
 
 Ici, on peut voir de manière flagrante une analogie avec les langages de programmation, qui, comme le langage mathématique, contiennent des propositions intraduisibles dans le langage. Exemple extrait du noyau Linux (projet open source qui constitue la base de l'extrême majorité des systèmes d'exploitation utilisés, notamment les serveurs, les appareils mobiles et les systèmes embarqués) :
 ```C
@@ -148,6 +154,8 @@ BPF_CALL_3(bpf_probe_read_compat_str, void *, dst, u32, size,
 }
 ```
 Ainsi, l'ingénieur informaticien peut se retrouver concepteur d'un système dont il ne peut comprendre pleinement les conséquences car il évolue dans un monde où le langage a perdu son pouvoir. Cela souligne l'importance d'un cadre éthique pour les ingénieurs en informatique, car ils peuvent créer des systèmes complexes sans toujours comprendre les implications éthiques de leur travail.
+
+Et ce problème est toujours d'actualité avec plus récemment les majeurs avancée dans le développement des algorithmes d'apprentissage automatique utilisés notamment dans la reconnaissance faciale ou les systèmes de recommandation. Ces systèmes peuvent avoir des implications sociales et politiques considérables, comme la surveillance de masse ou encore la propagation de fausses informations... 
 
 ## Bibliographie
 
