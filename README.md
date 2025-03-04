@@ -123,6 +123,8 @@ Parmi les pressions externes on notera :
 
 - Soucieux des enjeux écologiques et sociaux actuels, les jeunes ingénieurs tendent à se détourner des secteurs axés sur des innovations futuristes pour privilégier des organisations qui tentent de répondre concrètement aux problématiques actuelles et qui mettent l'humain au coeur de leur démarche.
 
+- Les ingénieurs ont le besoin d'être tenu dans un cadre éthique pour éviter que leurs créations techniques ne soient détournées à des fins contraires à l'intérêt général.
+
 ## La hiérarchie des valeurs chez iAdvize
 iAdvize possède 4 valeurs :
 1. Fun as a must have (bonheur au travail)
