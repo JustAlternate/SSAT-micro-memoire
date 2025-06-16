@@ -157,6 +157,54 @@ Ainsi, l'ingénieur informaticien peut se retrouver concepteur d'un système don
 
 Et ce problème est toujours d'actualité avec plus récemment les majeurs avancée dans le développement des algorithmes d'apprentissage automatique utilisés notamment dans la reconnaissance faciale ou les systèmes de recommandation. Ces systèmes peuvent avoir des implications sociales et politiques considérables, comme la surveillance de masse ou encore la propagation de fausses informations... 
 
+## Entretien et observation
+
+Lors d'une séance de discussion sur le travail en entreprise avec ma classe, une de mes camarades a parlé d'un changement récent significatif concernant les valeurs de son entreprise. 
+
+Elle travaille chez Accenture, un leader mondial de l'innovation. Cette multinationale américaine est présente sur tous les continents et, pendant plusieurs années, a affiché des valeurs entrepreneuriales fortement axées sur l'inclusivité et la diversité, particulièrement en Europe et aux États-Unis.
+
+> À l'échelle mondiale, en 2024 Accenture comptabilisait plus de 300 000 femmes salariées sachant que l'entreprise compte un total de 674 000 employés (~46%). De plus, 50 % de son conseil d'administration et 27 % de son comité de direction mondial étaient composés de femmes.
+     
+Lina explique que, jusqu'à récemment, elle et ses collègues évoluaient dans un environnement très inclusif. Elle mentionne que la majorité de ses collègues sont des femmes et que l'entreprise organisait régulièrement des événements sur le thème de l'inclusion. 
+
+Certains employés par exemple avait l'habitude de porter des colliers colorés pour afficher leur appartenance/soutient à différentes communautés comme la communautés LGBT. 
+
+Cependant, avec les récentes mesures prises par le gouvernement républicain de Trump les choses ont changé.
+
+Du jour au lendemain Lina et tous les employés de Accenture ont reçu un mail de la part de la PDG de Accenture, leurs disant qu'ils aller faire marche arrière sur certaines partie des politiques de DEI.
+
+> Les politiques de « DEI », héritage du mouvement des droits civiques des années 1960, ont pour but affiché de promouvoir l’égalité des chances en prenant en compte, notamment dans le processus de recrutement, différents critères. L’origine ethnique, le genre, le handicap, l’orientation sexuelle...
+
+L'origine de ce changement est très probablement du au récent agissement du gouvernement Trump.
+
+En effet, dès son premier jour de retour à la Maison-Blanche, le président républicain a signé un décret exécutif déclarant « illégaux » les programmes et politiques de « DEI » au sein de l’État fédéral. 
+
+Mais accenture n'est pas la seule entreprise qui abandonne officiellement la politique de DEI :
+
+*   **16 juillet 2024 – John Deere:** Arrête le soutien aux événements culturels.
+*   **19 août 2024 – Harley-Davidson:** Abandonne la fonction DEI et les quotas.
+*   **22 août 2024 – Brown-Forman (Jack Daniel's):** Supprime les objectifs de diversité et arrête la participation à l'indice HRC.
+*   **28 août 2024 – Ford Motor:** Arrête la participation aux enquêtes externes sur la diversité.
+*   **28 août 2024 – Lowe's:** Arrête la participation aux enquêtes de la HRC.
+*   **4 septembre 2024 – Molson Coors:** Abandonne les quotas de diversité des fournisseurs, recentre la formation DEI sur les objectifs commerciaux et arrête la participation aux enquêtes externes sur la diversité.
+*   **1er novembre 2024 – Boeing:** Démantèle le département mondial DEI et réaffecte le personnel.
+*   **25 novembre 2024 – Walmart:** Abandonne ses engagements DEI, ferme son centre pour l’équité raciale, arrête les produits LGBTQ+ sur son site web, suspend sa participation aux enquêtes de la Human Rights Campaign (HRC) et supprime le terme DEI de ses documents.
+*   **6 janvier 2025 – McDonald's:** Abandonne les objectifs spécifiques en matière de diversité, arrête la participation aux enquêtes externes et renomme son équipe de diversité en “Équipe mondiale d’inclusion”.
+*   **10 janvier 2025 – Amazon:** Supprime les programmes pour remédier aux disparités.
+*   **10 janvier 2025 – Meta:** Met fin aux programmes d’augmentation de la diversité de l’embauche, y compris les formations en équité et en inclusion.
+*   **17 janvier 2025 – FBI:** Ferme le bureau DEI.
+*   **20 janvier 2025 – Administration Trump:** Ordre de suppression des programmes DEI au sein du gouvernement fédéral et menace de sanctionner les entités privées qui les utilisent.
+*   **22 janvier 2025 – Goldman Sachs & JPMorgan Chase:** Groupes conservateurs déposent des propositions d’actionnaires pour revoir leurs efforts en matière de DEI.
+*   **24 janvier 2025 – Target:** Abandonne les objectifs DEI et produits LGBTQ+ suite aux réactions.
+
+*(Il est important de noter que certaines entreprises affirment continuer à valoriser la diversité et l'inclusion en interne, même en abandonnant la participation à des enquêtes externes ou en modifiant leur terminologie.)*
+
+Malgré le fait que (pour l'instant) aucune loi aux États-Unis n'interdise aux entreprises privées d'avoir des programmes de DEI, la raison principale pour laquelle les entreprises abandonnent le DEI est leur adaptation à un paysage juridique et politique en pleine évolution, fortement influencé par la position et les actions du gouvernement de Donald Trump, qui a déjà commencé à éliminer les programmes DEI au niveau fédéral.
+
+Deux mois apres l'interview de Lina, celle çi indique :
+
+    "Malgré le mail de Julie Sweet, de nombreux événements Pride se sont tenus ce mois-ci. Cela remet donc en cause l'impact du message de la PDG sur l'activité de l'entreprise en matière d'inclusion ici."
+
 ## Bibliographie
 
 - Valérie Lejeune - *Tendances économiques et sociales de la valeur en entreprise*
@@ -177,3 +225,7 @@ Et ce problème est toujours d'actualité avec plus récemment les majeurs avanc
 * [Discours d'un collectif d'ingénieurs diplômés d'AgroParisTech](https://www.youtube.com/watch?v=SUOVOC2Kd50)
 
 * [Discours Remise des Diplômes 2018 Centrale Nantes](https://www.youtube.com/watch?v=3LvTgiWSAAE)
+
+* [Etude femmes chez accenture](https://sightsinplus.com/news/industry-news/accenture-achieved-46-women-in-its-workforce-aiming-50-by-2025/)
+
+* [Les entreprises qui abandonne la politique de DEI](https://www.business-world.fr/entreprises-aux-etats-unis-qui-ont-abandonne-leurs-objectifs-de-diversite-dequite-et-dinclusion/)
