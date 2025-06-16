@@ -153,19 +153,18 @@ Elle travaille chez Accenture, un leader mondial de l'innovation. Cette multinat
      
 Lina explique que, jusqu'à récemment, elle et ses collègues évoluaient dans un environnement très inclusif. Elle mentionne que la majorité de ses collègues sont des femmes et que l'entreprise organisait régulièrement des événements sur le thème de l'inclusion. 
 
-Certains employés par exemple avait l'habitude de porter des colliers colorés pour afficher leur appartenance/soutient à différentes communautés comme la communautés LGBT. 
+Certains employés par exemple avaient l'habitude de porter des colliers colorés pour afficher leur appartenance/soutient à différentes communautés comme la communauté LGBT. 
 
 Cependant, avec les récentes mesures prises par le gouvernement républicain de Trump les choses ont changé.
 
-Du jour au lendemain Lina et tous les employés de Accenture ont reçu un mail de la part de la PDG de Accenture, leurs disant qu'ils aller faire marche arrière sur certaines partie des politiques de DEI.
+Du jour au lendemain, Lina et tous les employés de Accenture ont reçu un mail de la part de la PDG de Accenture, leur disant qu'ils allaient devoir faire marche arrière sur certaines parties des politiques de DEI.
 
 > Les politiques de « DEI », héritage du mouvement des droits civiques des années 1960, ont pour but affiché de promouvoir l’égalité des chances en prenant en compte, notamment dans le processus de recrutement, différents critères. L’origine ethnique, le genre, le handicap, l’orientation sexuelle...
 
-L'origine de ce changement est très probablement du au récent agissement du gouvernement Trump.
-
+L'origine de ce changement est très probablement dû au récent agissement du gouvernement Trump.
 En effet, dès son premier jour de retour à la Maison-Blanche, le président républicain a signé un décret exécutif déclarant « illégaux » les programmes et politiques de « DEI » au sein de l’État fédéral. 
 
-Mais accenture n'est pas la seule entreprise qui abandonne officiellement la politique de DEI :
+Mais Accenture n'est pas la seule entreprise qui abandonne officiellement la politique de DEI :
 
 *   **16 juillet 2024 – John Deere:** Arrête le soutien aux événements culturels.
 *   **19 août 2024 – Harley-Davidson:** Abandonne la fonction DEI et les quotas.
@@ -187,9 +186,8 @@ Mais accenture n'est pas la seule entreprise qui abandonne officiellement la pol
 
 Malgré le fait que (pour l'instant) aucune loi aux États-Unis n'interdise aux entreprises privées d'avoir des programmes de DEI, la raison principale pour laquelle les entreprises abandonnent le DEI est leur adaptation à un paysage juridique et politique en pleine évolution, fortement influencé par la position et les actions du gouvernement de Donald Trump, qui a déjà commencé à éliminer les programmes DEI au niveau fédéral.
 
-Deux mois apres l'interview de Lina, celle çi indique :
-
-    "Malgré le mail de Julie Sweet, de nombreux événements Pride se sont tenus ce mois-ci. Cela remet donc en cause l'impact du message de la PDG sur l'activité de l'entreprise en matière d'inclusion ici."
+Deux mois après l'interview de Lina, celle-ci indique :
+>    "Malgré le mail de Julie Sweet, de nombreux événements Pride se sont tenus ce mois-ci. Cela remet donc en cause l'impact du message de la PDG sur l'activité de l'entreprise en matière d'inclusion ici." - Lina
 
 ## Bibliographie
 
