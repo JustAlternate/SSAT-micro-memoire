@@ -69,21 +69,13 @@ Les valeurs éthiques d'une organisation sont choisies par des individus ayant c
 
 ## Protocole de Recherche
 
-Pour étudier les valeurs éthiques chez iAdvize, une méthode de recherche organisée guidera les différentes étapes de l'étude. L'enquête comportera deux volets principaux :
+Pour étudier les valeurs éthiques chez iAdvize :
 
 1. **Interroger les ressources humaines :**
 
    - Identifier les personnes ayant défini les valeurs éthiques de l'entreprise.
    - Comprendre le processus de création de ces valeurs, ainsi que leur mise à jour éventuelle.
    - Analyser les motivations derrière le choix de ces valeurs et pourquoi certaines sont plus mises en avant que d'autres, que ce soit en interne ou dans la communication externe de l'entreprise.
-
-2. **Sonder les employés :**
-
-   - Évaluer leur connaissance des valeurs éthiques de l'entreprise.
-   - Mesurer leur niveau de connexion et d'engagement avec ces valeurs (via une échelle de 1 à 10).
-   - Recueillir leur satisfaction concernant les actions concrètes mises en place par l'entreprise en lien avec leurs propres valeurs.
-
-Ces étapes permettront de recueillir des données qualitatives et quantitatives pour analyser l'importance des valeurs éthiques dans l'environnement de travail chez iAdvize.
 
 ### Les 5 questions posées aux ressources humaines
 
@@ -93,13 +85,7 @@ Ces étapes permettront de recueillir des données qualitatives et quantitatives
 4. Est-ce que l'on peut retrouver une liste des actions entreprises par iAdvize vis-à-vis de ces valeurs ?
 5. Y a-t-il une hiérarchie dans l'importance des différentes valeurs d'iAdvize ?
 
-### Les 5 questions posées aux employés
-
-1. Quelles sont vos valeurs éthiques personnelles ? (Exemples: Intégrité, Respect, Équité, Responsabilité, Transparence, Confidentialité, Loi, Environnement, Diversité, Sécurité, Qualité, Innovation, Communication, Accountabilité, Égalité, Vie privée, Intégrité financière, Responsabilité sociale, Développement durable, Aucune)
-2. Que pensez-vous des différentes valeurs éthiques de l'entreprise? (Learning organization, Entrepreneur spirit, Committed for better, Fun as a must have)
-3. Quelle est votre échelle de connexion avec les valeurs éthiques de l'entreprise (de 1 à 10)?
-4. Quelles sont les actions concrètes que vous avez retenues être mises en place par l'entreprise?
-5. Quelle est votre satisfaction concernant ces actions concrètes et pensez-vous qu'elles correspondent à vos propres valeurs?
+2. **Réalisation de nombreux entretiens informels avec des profils d'ingénieur divers**
 
 ## Comment sont trouvées les valeurs éthiques
 
