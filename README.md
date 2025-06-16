@@ -157,6 +157,22 @@ Ainsi, l'ingénieur informaticien peut se retrouver concepteur d'un système don
 
 Et ce problème est toujours d'actualité avec plus récemment les majeurs avancée dans le développement des algorithmes d'apprentissage automatique utilisés notamment dans la reconnaissance faciale ou les systèmes de recommandation. Ces systèmes peuvent avoir des implications sociales et politiques considérables, comme la surveillance de masse ou encore la propagation de fausses informations... 
 
+## Entretien et observation
+
+Lors d'une séance de discussion sur le travail en entreprise avec ma classe, une de mes camarades a parlé d'un changement récent significatif concernant les valeurs de son entreprise. 
+
+Elle travaille chez Accenture, un leader mondial de l'innovation. Cette multinationale américaine est présente sur tous les continents et, pendant plusieurs années, a affiché des valeurs entrepreneuriales fortement axées sur l'inclusivité et la diversité, particulièrement en Europe et aux États-Unis.
+
+>À l'échelle mondiale, en 2024 Accenture comptabilisait plus de 300 000 femmes salariées. De plus, 50 % de son conseil d'administration et 27 % de son comité de direction mondial étaient composés de femmes, sachant que l'entreprise compte un total de 674 000 employés. 
+     
+
+Lina explique que, jusqu'à récemment, elle et ses collègues évoluaient dans un environnement très inclusif. Elle mentionne que la majorité de ses collègues sont des femmes et que l'entreprise organisait régulièrement des événements sur le thème de l'inclusion. Ils avaient même l'habitude de porter des colliers colorés pour afficher leur appartenance à différentes communautés. 
+
+Cependant, la situation a changé avec une politique plus générale qui critique l’inclusivité, la diversité et l’équité. Lina explique qu'elle et tous les employés d'Accenture ont reçu un e-mail de la PDG annonçant un revirement de position. 
+Ce qui change beaucoup de chose, et c'est donc ce que Lina explique, elle explique que du jour au lendemain elle et tous les employés de Accenture ont reçu un mail de la part de la PDG de Accenture, leurs disant qu'ils aller faire marche arrière sur ces 3 thèmes et que certaines choses qui se faisait avant ne pourront plus se faire a partir de maintenant. Comme sont objectif d'atteindre les 50% de femmes dans ses effectifs, la réévaluation de ses partenaire externes, L'entreprise souhaite désormais se concentrer sur la construction d'un lieu de travail basé sur le mérite, sans biais.  Cela répond à une rhétorique politique (particulièrement sous l'administration Trump) favorisant une approche "méritocratique" et remettant en question les mesures de diversité jugées "discriminatoires".
+
+Apres avoir discuté avec Lina, j'ai pu lui poser d'autre questions, elle explique qu'elle trouve se changement vraiment "dommage" pour l'instant elle dit ne pas observer beaucoup de réactions de la part de ses collegues sur le sujet. 
+
 ## Bibliographie
 
 - Valérie Lejeune - *Tendances économiques et sociales de la valeur en entreprise*
@@ -177,3 +193,4 @@ Et ce problème est toujours d'actualité avec plus récemment les majeurs avanc
 * [Discours d'un collectif d'ingénieurs diplômés d'AgroParisTech](https://www.youtube.com/watch?v=SUOVOC2Kd50)
 
 * [Discours Remise des Diplômes 2018 Centrale Nantes](https://www.youtube.com/watch?v=3LvTgiWSAAE)
+* [Etude femmes chez accenture](https://sightsinplus.com/news/industry-news/accenture-achieved-46-women-in-its-workforce-aiming-50-by-2025/)
