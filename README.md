@@ -69,21 +69,13 @@ Les valeurs éthiques d'une organisation sont choisies par des individus ayant c
 
 ## Protocole de Recherche
 
-Pour étudier les valeurs éthiques chez iAdvize, une méthode de recherche organisée guidera les différentes étapes de l'étude. L'enquête comportera deux volets principaux :
+Pour étudier les valeurs éthiques chez iAdvize :
 
 1. **Interroger les ressources humaines :**
 
    - Identifier les personnes ayant défini les valeurs éthiques de l'entreprise.
    - Comprendre le processus de création de ces valeurs, ainsi que leur mise à jour éventuelle.
    - Analyser les motivations derrière le choix de ces valeurs et pourquoi certaines sont plus mises en avant que d'autres, que ce soit en interne ou dans la communication externe de l'entreprise.
-
-2. **Sonder les employés :**
-
-   - Évaluer leur connaissance des valeurs éthiques de l'entreprise.
-   - Mesurer leur niveau de connexion et d'engagement avec ces valeurs (via une échelle de 1 à 10).
-   - Recueillir leur satisfaction concernant les actions concrètes mises en place par l'entreprise en lien avec leurs propres valeurs.
-
-Ces étapes permettront de recueillir des données qualitatives et quantitatives pour analyser l'importance des valeurs éthiques dans l'environnement de travail chez iAdvize.
 
 ### Les 5 questions posées aux ressources humaines
 
@@ -93,13 +85,7 @@ Ces étapes permettront de recueillir des données qualitatives et quantitatives
 4. Est-ce que l'on peut retrouver une liste des actions entreprises par iAdvize vis-à-vis de ces valeurs ?
 5. Y a-t-il une hiérarchie dans l'importance des différentes valeurs d'iAdvize ?
 
-### Les 5 questions posées aux employés
-
-1. Quelles sont vos valeurs éthiques personnelles ? (Exemples: Intégrité, Respect, Équité, Responsabilité, Transparence, Confidentialité, Loi, Environnement, Diversité, Sécurité, Qualité, Innovation, Communication, Accountabilité, Égalité, Vie privée, Intégrité financière, Responsabilité sociale, Développement durable, Aucune)
-2. Que pensez-vous des différentes valeurs éthiques de l'entreprise? (Learning organization, Entrepreneur spirit, Committed for better, Fun as a must have)
-3. Quelle est votre échelle de connexion avec les valeurs éthiques de l'entreprise (de 1 à 10)?
-4. Quelles sont les actions concrètes que vous avez retenues être mises en place par l'entreprise?
-5. Quelle est votre satisfaction concernant ces actions concrètes et pensez-vous qu'elles correspondent à vos propres valeurs?
+2. **Réalisation de nombreux entretiens informels avec des profils d'ingénieur divers**
 
 ## Comment sont trouvées les valeurs éthiques
 
@@ -163,15 +149,45 @@ Lors d'une séance de discussion sur le travail en entreprise avec ma classe, un
 
 Elle travaille chez Accenture, un leader mondial de l'innovation. Cette multinationale américaine est présente sur tous les continents et, pendant plusieurs années, a affiché des valeurs entrepreneuriales fortement axées sur l'inclusivité et la diversité, particulièrement en Europe et aux États-Unis.
 
->À l'échelle mondiale, en 2024 Accenture comptabilisait plus de 300 000 femmes salariées. De plus, 50 % de son conseil d'administration et 27 % de son comité de direction mondial étaient composés de femmes, sachant que l'entreprise compte un total de 674 000 employés. 
+> À l'échelle mondiale, en 2024 Accenture comptabilisait plus de 300 000 femmes salariées sachant que l'entreprise compte un total de 674 000 employés (~46%). De plus, 50 % de son conseil d'administration et 27 % de son comité de direction mondial étaient composés de femmes.
      
+Lina explique que, jusqu'à récemment, elle et ses collègues évoluaient dans un environnement très inclusif. Elle mentionne que la majorité de ses collègues sont des femmes et que l'entreprise organisait régulièrement des événements sur le thème de l'inclusion. 
 
-Lina explique que, jusqu'à récemment, elle et ses collègues évoluaient dans un environnement très inclusif. Elle mentionne que la majorité de ses collègues sont des femmes et que l'entreprise organisait régulièrement des événements sur le thème de l'inclusion. Ils avaient même l'habitude de porter des colliers colorés pour afficher leur appartenance à différentes communautés. 
+Certains employés par exemple avaient l'habitude de porter des colliers colorés pour afficher leur appartenance/soutient à différentes communautés comme la communauté LGBT. 
 
-Cependant, la situation a changé avec une politique plus générale qui critique l’inclusivité, la diversité et l’équité. Lina explique qu'elle et tous les employés d'Accenture ont reçu un e-mail de la PDG annonçant un revirement de position. 
-Ce qui change beaucoup de chose, et c'est donc ce que Lina explique, elle explique que du jour au lendemain elle et tous les employés de Accenture ont reçu un mail de la part de la PDG de Accenture, leurs disant qu'ils aller faire marche arrière sur ces 3 thèmes et que certaines choses qui se faisait avant ne pourront plus se faire a partir de maintenant. Comme sont objectif d'atteindre les 50% de femmes dans ses effectifs, la réévaluation de ses partenaire externes, L'entreprise souhaite désormais se concentrer sur la construction d'un lieu de travail basé sur le mérite, sans biais.  Cela répond à une rhétorique politique (particulièrement sous l'administration Trump) favorisant une approche "méritocratique" et remettant en question les mesures de diversité jugées "discriminatoires".
+Cependant, avec les récentes mesures prises par le gouvernement républicain de Trump les choses ont changé.
 
-Apres avoir discuté avec Lina, j'ai pu lui poser d'autre questions, elle explique qu'elle trouve se changement vraiment "dommage" pour l'instant elle dit ne pas observer beaucoup de réactions de la part de ses collegues sur le sujet. 
+Du jour au lendemain, Lina et tous les employés de Accenture ont reçu un mail de la part de la PDG de Accenture, leur disant qu'ils allaient devoir faire marche arrière sur certaines parties des politiques de DEI.
+
+> Les politiques de « DEI », héritage du mouvement des droits civiques des années 1960, ont pour but affiché de promouvoir l’égalité des chances en prenant en compte, notamment dans le processus de recrutement, différents critères. L’origine ethnique, le genre, le handicap, l’orientation sexuelle...
+
+L'origine de ce changement est très probablement dû au récent agissement du gouvernement Trump.
+En effet, dès son premier jour de retour à la Maison-Blanche, le président républicain a signé un décret exécutif déclarant « illégaux » les programmes et politiques de « DEI » au sein de l’État fédéral. 
+
+Mais Accenture n'est pas la seule entreprise qui abandonne officiellement la politique de DEI :
+
+*   **16 juillet 2024 – John Deere:** Arrête le soutien aux événements culturels.
+*   **19 août 2024 – Harley-Davidson:** Abandonne la fonction DEI et les quotas.
+*   **22 août 2024 – Brown-Forman (Jack Daniel's):** Supprime les objectifs de diversité et arrête la participation à l'indice HRC.
+*   **28 août 2024 – Ford Motor:** Arrête la participation aux enquêtes externes sur la diversité.
+*   **28 août 2024 – Lowe's:** Arrête la participation aux enquêtes de la HRC.
+*   **4 septembre 2024 – Molson Coors:** Abandonne les quotas de diversité des fournisseurs, recentre la formation DEI sur les objectifs commerciaux et arrête la participation aux enquêtes externes sur la diversité.
+*   **1er novembre 2024 – Boeing:** Démantèle le département mondial DEI et réaffecte le personnel.
+*   **25 novembre 2024 – Walmart:** Abandonne ses engagements DEI, ferme son centre pour l’équité raciale, arrête les produits LGBTQ+ sur son site web, suspend sa participation aux enquêtes de la Human Rights Campaign (HRC) et supprime le terme DEI de ses documents.
+*   **6 janvier 2025 – McDonald's:** Abandonne les objectifs spécifiques en matière de diversité, arrête la participation aux enquêtes externes et renomme son équipe de diversité en “Équipe mondiale d’inclusion”.
+*   **10 janvier 2025 – Amazon:** Supprime les programmes pour remédier aux disparités.
+*   **10 janvier 2025 – Meta:** Met fin aux programmes d’augmentation de la diversité de l’embauche, y compris les formations en équité et en inclusion.
+*   **17 janvier 2025 – FBI:** Ferme le bureau DEI.
+*   **20 janvier 2025 – Administration Trump:** Ordre de suppression des programmes DEI au sein du gouvernement fédéral et menace de sanctionner les entités privées qui les utilisent.
+*   **22 janvier 2025 – Goldman Sachs & JPMorgan Chase:** Groupes conservateurs déposent des propositions d’actionnaires pour revoir leurs efforts en matière de DEI.
+*   **24 janvier 2025 – Target:** Abandonne les objectifs DEI et produits LGBTQ+ suite aux réactions.
+
+*(Il est important de noter que certaines entreprises affirment continuer à valoriser la diversité et l'inclusion en interne, même en abandonnant la participation à des enquêtes externes ou en modifiant leur terminologie.)*
+
+Malgré le fait que (pour l'instant) aucune loi aux États-Unis n'interdise aux entreprises privées d'avoir des programmes de DEI, la raison principale pour laquelle les entreprises abandonnent le DEI est leur adaptation à un paysage juridique et politique en pleine évolution, fortement influencé par la position et les actions du gouvernement de Donald Trump, qui a déjà commencé à éliminer les programmes DEI au niveau fédéral.
+
+Deux mois après l'interview de Lina, celle-ci indique :
+>    "Malgré le mail de Julie Sweet, de nombreux événements Pride se sont tenus ce mois-ci. Cela remet donc en cause l'impact du message de la PDG sur l'activité de l'entreprise en matière d'inclusion ici." - Lina
 
 ## Bibliographie
 
@@ -193,4 +209,7 @@ Apres avoir discuté avec Lina, j'ai pu lui poser d'autre questions, elle expliq
 * [Discours d'un collectif d'ingénieurs diplômés d'AgroParisTech](https://www.youtube.com/watch?v=SUOVOC2Kd50)
 
 * [Discours Remise des Diplômes 2018 Centrale Nantes](https://www.youtube.com/watch?v=3LvTgiWSAAE)
+
 * [Etude femmes chez accenture](https://sightsinplus.com/news/industry-news/accenture-achieved-46-women-in-its-workforce-aiming-50-by-2025/)
+
+* [Les entreprises qui abandonne la politique de DEI](https://www.business-world.fr/entreprises-aux-etats-unis-qui-ont-abandonne-leurs-objectifs-de-diversite-dequite-et-dinclusion/)
