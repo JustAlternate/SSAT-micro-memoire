@@ -11,6 +11,8 @@ pagestyle: empty
 Table des matières
 =================
 
+TODO:METTRE A JOUR LA TABLE DES MATIERES
+
 * [Les valeurs éthiques en entreprise](#les-valeurs-éthiques-en-entreprise)
 * [Table des matières](#table-des-matières)
   * [Problématique](#problématique)
@@ -53,9 +55,39 @@ D'un point de vue personnel, je me questionne régulièrement sur ma relation en
 
 Mon objectif est d'étudier pourquoi les organisations, historiquement et stratégiquement, ont choisi d'adopter des valeurs éthiques, et d'analyser les impacts de ces valeurs.
 
+## Etat de l'art bibliographique
+
+TODO
+
 ## Impact
 
 Les valeurs éthiques d'une entreprise influencent autant son fonctionnement interne que son image externe. Elles participent au management, à l'innovation, à la stratégie, et impactent directement la perception de l'entreprise par ses clients et la société.
+
+### Les conflits de valeurs au travail
+
+En 2016 la Dares poste une étude sur 22 895 actifs révélant que six actifs occupés sur dix signalent être exposés à des conflits de valeurs dans leur travail.
+La plus fréquente concerne deux actifs occupés sur dix, qui vivent des **conflits éthiques car ils doivent faire des choses qu’ils désapprouvent**, même si par ailleurs ils ont les moyens de bien faire leur travail.
+Les autres situations touchent chacune un actif occupé sur dix.
+Certains doivent faire un travail qu’ils jugent en grande partie inutile, ce à quoi s’ajoute, pour d’autres, l’absence de fierté du travail bien fait.
+D’autres encore estiment manquer de moyens pour bien faire leur travail mais se sentent malgré tout fiers du résultat.
+Le dernier cas concerne les personnes qui cumulent la plupart des conflits de valeur.
+Les salariés les plus exposés aux conflits de valeurs et à leur cumul déclarent plus fréquemment une santé physique et mentale dégradée.
+
+<div style="text-align: center;">
+    <img src="./assets/conflits-de-valeurs-au-travail-graphique.png" alt="" width="600"/>
+    <br>
+    <strong>fig 1. Répartition des actifs occupés selon leur profil
+d’exposition aux conflits de valeurs</strong>
+    <br>
+    <em>enquête CT-RPS 2016, Dares, DGAFP, Drees et Insee.</em>
+</div>
+
+Si maintenant on s'intéresse aux informaticiens dans cette étude, on remarque que **les techniciens de l’informatique** sont associés à deux profils opposés : 
+- d’un engagement fort entravé par le manque de moyens.
+- soit d’un désengagement par perte de sens et de qualité malgré des conditions matérielles correctes.
+De même, **les ingénieurs en informatique** apparaissent dans la catégorie de ceux qui **ressentent leur travail comme peu utile**, **ce qui révèle un sentiment de déconnexion entre les tâches réalisées et leur finalité perçue**.
+Malgré des conditions matérielles souvent adéquates (outils informatiques, collègues disponibles, autonomie), ces cadres peuvent souffrir de frustration liée à l’absence de reconnaissance ou au manque d’impact perçu.
+L'étude de la Dares montre alors que ces tensions les exposent à des risques accru de troubles du sommeil, de stress et de baisse du bien-être psychologique, surtout lorsqu’ils se retrouvent dans des situations où la qualité doit être sacrifiée ou lorsque leur utilité sociale semble floue.
 
 ## Lien avec le concept d'éthique
 
@@ -123,6 +155,7 @@ Voici l'ordre dans lequel ces valeurs sont présentées sur le site Internet d'i
 [Je vais attendre les résultats d'un sondage pour savoir si les valeurs de l'entreprise ont réellement une hiérarchie ou si c'est mon observation qui est biaisée.]
 
 ## L'importance d'un cadre éthique pour les ingénieurs en informatique
+
 > Une des raisons profondes de notre incapacité à comprendre est liée, selon Hannah Arendt, à l'usage d'un "langage" de symboles mathématiques. Au début, écrit-elle, cet usage avait pour but de simplifier la communication en concevant des abréviations pour des propositions d'énoncés formulables par la parole. Il "contient à présent des propositions absolument intraduisibles dans le langage" (Arendt, 1961/1958 : 3). Ainsi, si les scientifiques n'ont pas refusé de développer des armes nucléaires, ce n'est pas d'abord, selon elle, par manque de caractère ou de courage ou encore par naïveté, parce qu'"ils n'auraient pas compris qu'une fois ces armes inventées, ils seraient les derniers consultés sur leur emploi". Ils n'ont pas refusé de poursuivre leur recherche parce qu'"ils évoluaient dans un monde où le langage a perdu son pouvoir. Et toute action de l'homme, tout savoir, toute expérience n'a de sens que dans la mesure où l'on peut en parler".
 
 - "Figure inspirante pour la formation en éthique des ingénieurs" de Christelle Didier
@@ -213,3 +246,5 @@ Deux mois après l'interview de Lina, celle-ci indique :
 * [Etude femmes chez accenture](https://sightsinplus.com/news/industry-news/accenture-achieved-46-women-in-its-workforce-aiming-50-by-2025/)
 
 * [Les entreprises qui abandonne la politique de DEI](https://www.business-world.fr/entreprises-aux-etats-unis-qui-ont-abandonne-leurs-objectifs-de-diversite-dequite-et-dinclusion/)
+
+* [Etude de la Dares sur les conflits de valeurs au travails et leurs risques sur la santé](https://dares.travail-emploi.gouv.fr/publication/conflits-de-valeurs-au-travail-qui-est-concerne-et-quels-liens-avec-la-sante)
