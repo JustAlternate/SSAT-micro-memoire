@@ -11,22 +11,22 @@ pagestyle: empty
 Table des matières
 =================
 
-TODO:METTRE A JOUR LA TABLE DES MATIERES
-
 * [Les valeurs éthiques en entreprise](#les-valeurs-éthiques-en-entreprise)
 * [Table des matières](#table-des-matières)
   * [Problématique](#problématique)
   * [Introduction](#introduction)
   * [Motivation sur le sujet des valeurs éthiques](#motivation-sur-le-sujet-des-valeurs-éthiques)
+  * [Etat de l'art bibliographique](#etat-de-lart-bibliographique)
   * [Impact](#impact)
+    * [Les conflits de valeurs au travail](#les-conflits-de-valeurs-au-travail)
   * [Lien avec le concept d'éthique](#lien-avec-le-concept-déthique)
   * [Protocole de Recherche](#protocole-de-recherche)
-    * [Les 5 questions posées aux ressources humaines :](#les-5-questions-posées-aux-ressources-humaines)
-    * [Les 5 questions posées aux employés :](#les-5-questions-posées-aux-employés)
-  * [Comment sont trouvées les valeurs éthiques ?](#comment-sont-trouvées-les-valeurs-éthiques)
+    * [Les 5 questions posées aux ressources humaines](#les-5-questions-posées-aux-ressources-humaines)
+  * [Comment sont trouvées les valeurs éthiques](#comment-sont-trouvées-les-valeurs-éthiques)
   * [Hypothèses](#hypothèses)
   * [La hiérarchie des valeurs chez iAdvize](#la-hiérarchie-des-valeurs-chez-iadvize)
   * [L'importance d'un cadre éthique pour les ingénieurs en informatique](#limportance-dun-cadre-éthique-pour-les-ingénieurs-en-informatique)
+  * [Entretien et observation](#entretien-et-observation)
   * [Bibliographie](#bibliographie)
 
 ## Problématique
@@ -84,7 +84,8 @@ d’exposition aux conflits de valeurs</strong>
 
 Si maintenant on s'intéresse aux informaticiens dans cette étude, on remarque que **les techniciens de l’informatique** sont associés à deux profils opposés : 
 - d’un engagement fort entravé par le manque de moyens.
-- soit d’un désengagement par perte de sens et de qualité malgré des conditions matérielles correctes.
+- soit d’un désengagement par perte de sens et de qualité malgré des conditions matérielles correctes.  
+
 De même, **les ingénieurs en informatique** apparaissent dans la catégorie de ceux qui **ressentent leur travail comme peu utile**, **ce qui révèle un sentiment de déconnexion entre les tâches réalisées et leur finalité perçue**.
 Malgré des conditions matérielles souvent adéquates (outils informatiques, collègues disponibles, autonomie), ces cadres peuvent souffrir de frustration liée à l’absence de reconnaissance ou au manque d’impact perçu.
 L'étude de la Dares montre alors que ces tensions les exposent à des risques accru de troubles du sommeil, de stress et de baisse du bien-être psychologique, surtout lorsqu’ils se retrouvent dans des situations où la qualité doit être sacrifiée ou lorsque leur utilité sociale semble floue.
@@ -176,6 +177,8 @@ Ainsi, l'ingénieur informaticien peut se retrouver concepteur d'un système don
 
 Et ce problème est toujours d'actualité avec plus récemment les majeurs avancée dans le développement des algorithmes d'apprentissage automatique utilisés notamment dans la reconnaissance faciale ou les systèmes de recommandation. Ces systèmes peuvent avoir des implications sociales et politiques considérables, comme la surveillance de masse ou encore la propagation de fausses informations... 
 
+***...Aller plus loin sur le concept de anomie ?***
+
 ## Entretien et observation
 
 Lors d'une séance de discussion sur le travail en entreprise avec ma classe, une de mes camarades a parlé d'un changement récent significatif concernant les valeurs de son entreprise. 
@@ -219,8 +222,8 @@ Mais Accenture n'est pas la seule entreprise qui abandonne officiellement la pol
 
 Malgré le fait que (pour l'instant) aucune loi aux États-Unis n'interdise aux entreprises privées d'avoir des programmes de DEI, la raison principale pour laquelle les entreprises abandonnent le DEI est leur adaptation à un paysage juridique et politique en pleine évolution, fortement influencé par la position et les actions du gouvernement de Donald Trump, qui a déjà commencé à éliminer les programmes DEI au niveau fédéral.
 
-Deux mois après l'interview de Lina, celle-ci indique :
->    "Malgré le mail de Julie Sweet, de nombreux événements Pride se sont tenus ce mois-ci. Cela remet donc en cause l'impact du message de la PDG sur l'activité de l'entreprise en matière d'inclusion ici." - Lina
+Deux mois après l'interview de Lina, celle-ci indique :  
+>"Malgré le mail de Julie Sweet, de nombreux événements Pride se sont tenus ce mois-ci. Cela remet donc en cause l'impact du message de la PDG sur l'activité de l'entreprise en matière d'inclusion ici." - Lina
 
 ## Bibliographie
 
