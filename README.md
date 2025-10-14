@@ -55,9 +55,34 @@ D'un point de vue personnel, je me questionne régulièrement sur ma relation en
 
 Mon objectif est d'étudier pourquoi les organisations, historiquement et stratégiquement, ont choisi d'adopter des valeurs éthiques, et d'analyser les impacts de ces valeurs.
 
-## Etat de l'art bibliographique
+## Etat de l'art bibliographique (Concepts et mots clés)
 
-TODO
+### Les valeurs
+> **Les valeurs** sont les idées collectives qui définissent ce qui est désirable et qui s'imposent aux individus comme des faits sociaux.
+- Émile Durkheim
+
+### L'action sociale
+> **L'action sociale** est le comportement humain qui est orienté vers un but ou une fin.
+- Max Weber
+
+### La bureaucratie
+> **La bureaucratie** est une forme d'organisation caractérisée par une hiérarchie du pouvoir, une division du travail et des règles et procédures formalisées.
+- Max Weber
+
+### La culture d'entreprise
+**La culture d'entreprise** désigne l'ensemble des valeurs, normes, pratiques, croyances et comportements qui caractérisent une organisation. Elle se manifeste dans la manière d'agir des collaborateurs, dans le style de management, mais aussi dans les traditions internes et l'ambiance de travail.
+*Ce concept semble intéressant pour valider l'hypothèse selon laquelle les organisations influencent les valeurs éthiques des employés. Quelle est la différence avec la bureaucratie ?*
+
+### Théorie des parties prenantes
+La théorie des parties prenantes pourrait expliquer le choix des valeurs chez iAdvize en analysant comment l'organisation prend en compte les intérêts de chaque parties prenantes (employés, clients, société, investisseurs).
+
+### L'anomie (Durkheim)
+Le concept d'anomie chez Durkheim pourrait être pertinent, bien qu'il semble trop généraliste ("trop fourre-tout") pour une application spécifique dans ce contexte.
+https://shs.cairn.info/revue-le-telemaque-2018-1-page-21?lang=fr
+
+### L'hypocrisie organisationnelle (Nils Brunsson)
+Ce concept permet de comprendre l'écart entre les "valeurs affichées" et les pratiques réelles au sein des organisations (exemple : discours RSE vs décisions commerciales).
+https://shs.cairn.info/revue-le-telemaque-2018-1-page-21?lang=fr
 
 ## Impact
 
