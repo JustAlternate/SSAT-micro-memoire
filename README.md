@@ -31,7 +31,7 @@ Table des matières
 
 ## Problématique
 
-Comment sont déterminées les valeurs éthiques environnementales chez iAdvize, et quels en sont les impacts ?
+Quelles sont les valeurs éthiques des ingénieurs et leur place dans les organisations dans lesquelles ils travaillent ?
 
 ## Introduction
 
@@ -201,8 +201,6 @@ BPF_CALL_3(bpf_probe_read_compat_str, void *, dst, u32, size,
 Ainsi, l'ingénieur informaticien peut se retrouver concepteur d'un système dont il ne peut comprendre pleinement les conséquences car il évolue dans un monde où le langage a perdu son pouvoir. Cela souligne l'importance d'un cadre éthique pour les ingénieurs en informatique, car ils peuvent créer des systèmes complexes sans toujours comprendre les implications éthiques de leur travail.
 
 Et ce problème est toujours d'actualité avec plus récemment les majeurs avancée dans le développement des algorithmes d'apprentissage automatique utilisés notamment dans la reconnaissance faciale ou les systèmes de recommandation. Ces systèmes peuvent avoir des implications sociales et politiques considérables, comme la surveillance de masse ou encore la propagation de fausses informations... 
-
-***...Aller plus loin sur le concept de anomie ?***
 
 ## Entretien et observation
 
