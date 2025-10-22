@@ -7,17 +7,48 @@ pagestyle: empty
 
 **Weber Loïc IDIA4**
 
-# Les valeurs éthiques en entreprise
+# Les valeurs éthiques des ingénieurs en entreprise
 
-TODO: page de garde
-TODO: pagination
+TODO: page de garde (logo entreprise, CFA, polytech, tuteur entreprise et ssat)
+TODO: pagination, changer de page a chaque gros chapitre (peut etre mettre mon nom en bas a toutes les pages ?)
 
-Table des matières
+# Les Remerciements
+
+Sommaire
 =================
 
 TODO: sommaire ici
 
+# Glossaire
+
 # Introduction
+
+TODO:
+Quelle sujet j'ai travaillé ?  
+c'est quoi ma problématique ?  
+c'est quoi mes hypothèses ?  
+L'histories, les situations passées où l'éthique était important (monsanto, openheimer, guerre du vietnam...)
+
+En tant qu'Alternant Ingénieur Platform, mon métier consiste a construire une platform de développement pour les ingénieurs développeurs. Dans cette mission, je suis donc résponsable du bon fonctionnement et de l'amélioration continue des outils de travail de ces ingénieurs, afin d'augmenter la vélocité a laquelle ils créent et déploient de nouvelles fonctionnalités a nos clients. J'occupe ce role au sein de l'entreprise iAdvize.
+
+iAdvize est un éditeur de logiciel (SAAS) de taille moyenne (~150 employés). Elle occupe une place importante dans l'écosystème du E-commerce européen.
+Avec des clients dans une dizaine de pays, elle a pour objectif de révolutionner l'expérience d'achat en ligne en y intégrant une dimension conversationnelle.
+
+iAdvize comme toutes entreprise moderne possèdent des valeurs. 
+
+Mais quelles sont ces valeurs ? et comment s'articulent t'elles autour des valeurs éthiques individuelle des ingénieurs qui conçoient les systèmes que iAdvize vend ?
+
+Ainsi nous tenterons de répondre a la problématique suivante :
+
+Quelles sont les valeurs éthiques des ingénieurs et quelle est leur place dans les organisations dans lesquelles ils travaillent ?
+
+A partir de cette problématique, nous axerons notre mémoire sur les Hypothèses suivantes :
+
+- Les ingénieurs ont besoin d'associer les objectifs de leur entreprise à des valeurs éthiques pour éviter un sentiment d'aliénation au travail.
+
+- Soucieux des enjeux écologiques et sociaux actuels, les jeunes ingénieurs tendent à se détourner de certains secteurs pour privilégier des organisations qui tentent de répondre concrètement aux problématiques actuelles et qui mettent l'humain au coeur de leur démarche.
+
+- Les ingénieurs ont le besoin d'être tenu dans un cadre éthique pour éviter que leurs créations techniques ne soient détournées à des fins contraires à l'intérêt général.
 
 ## Motivation sur le sujet de l'éthique
 
@@ -25,7 +56,7 @@ En tant que future ingénieur, je ressens souvent une forme de tension entre mes
 Certaines perspectives de carrière, comme celles proposées dans la finance ou l’assurance, me semble complétement contradictoire avec mes valeurs.
 Mais pour avoir beaucoup discuté avec d'autre ingénieur, je sais que ce sentiment n'est pas partagé par tous.
 
-L’exemple des ingénieurs d’AgroParisTech, qui ont publiquement exprimé leur désaccord avec les valeurs de certaines industries, met en lumière ce besoin croissant de cohérence entre engagement personnel et activité professionnelle.
+L’exemple des ingénieurs d’AgroParisTech, qui ont publiquement exprimé leur désaccord avec les valeurs de certaines industries me touche personnellement, ces jeunes ingénieurs tout juste sortie d'école refusent de se soumettre à une logique purement économique ou industrielle au détriment de l’éthique.
 
 Mon objectif est double :
 1. Comprendre quelles sont les valeurs des ingénieurs et comment ils les rendent compatibles avec leur travail.
@@ -33,9 +64,13 @@ Mon objectif est double :
 
 # Développement
 
+TODO: Poser le fond du contexte d'étude et amenée la problematique
+
 ## Problématique
 
 Quelles sont les valeurs éthiques des ingénieurs et quelle est leur place dans les organisations dans lesquelles ils travaillent ?
+
+TODO: Définition des concepts de la problématique
 
 ## Hypothèses
 
@@ -45,7 +80,86 @@ Quelles sont les valeurs éthiques des ingénieurs et quelle est leur place dans
 
 - Les ingénieurs ont le besoin d'être tenu dans un cadre éthique pour éviter que leurs créations techniques ne soient détournées à des fins contraires à l'intérêt général.
 
-## Situation étudiée
+## Le Plan d'action (Protocole de recherche)
+
+Dans l'objectifs de récolter des données qualitatif et quantitative afin d'infirmer, de réfuter ou de nuancer nos hypothèses, nous utiliserons deux méthodes :
+
+### La grille de questionnaire pour les entretiens informelle
+
+Sur la base de la grille de questionnaire suivante : 
+
+Hypothèse 1 : 
+> Les ingénieurs ont le besoin d'être tenu dans un cadre éthique pour éviter que leurs créations techniques ne soient détournées à des fins contraires à l'intérêt général.
+
+Question 1.1 :
+- Est-ce qu’il y a des parties de ton travail que tu trouverais impossibles à expliquer a des gens non technique ? Si oui, pourquoi ? Et est-ce que ça te pose un problème ?
+
+Rebond 1 : 
+- Si oui => Si personne ne comprends a part toi ou un groupe restreint de personnes, n'est ce pas dangereux éthiquement parlant ? Comment tu en parles démocratiquement avec d'autre personnes ?
+- Si non => Comment tu fais pour formaliser les concepts / implémentation très technique ?
+
+Objectifs 1 : 
+- Évaluer si la personne perçoit une différence entre le langage technique et le langage commun.
+- Identifier si elle a conscience des limites de la traduction.
+- Observer si elle relie cette difficulté à des risques éthiques.
+     
+Question 1.2 : 
+- Est-ce que tu as déjà travaillais sur un système sur lequels tu ne maitrisais par tous les impacts éthique (sociaux, politiques, environnementaux)
+
+Rebond 1.2 :
+- Si oui => Est-ce que tu as chercher a prendre du recul sur ces impacts ?
+- Si non => Comment tu fais pour t'assurer que les systemes que tu conçois sont éthiques ?
+
+Objectifs 1.2 : 
+- Savoir si la personne a déjà été confrontée à une dissonance entre son travail technique et ses implications.
+- Comprendre ses mécanismes de responsabilité (ex. : revues éthiques, discussions en équipe, auto-censure).
+- Comprendre si la personne pense aux impacts des systemes quelle crée et surtout si elle se questionne sur les enjeux éthiques des solutions quelle conçoit.
+     
+Question 1.3 :
+- Est-ce que tu te sens protégé par le cadre éthique de ton entreprise lors de la création de systeme technique ? Par exemple, si tu avais un doute sur les conséquences d’un système que tu développes, est-ce que tu saurais à qui t’adresser ou comment agir ? 
+
+Objectifs 1.3 :  
+- Savoir si l’ingénieur se sent soutenu par son entreprise quand des dilemmes éthiques surgissent.
+- Identifier si des mécanismes concrets existent ou si c’est flou/inexistant.
+- Comprendre si la personne a déjà été confrontée à des situations où l’éthique était en tension avec les objectifs techniques ou commerciaux.
+
+Hypothèse 2 :
+
+> Les ingénieurs ont besoin d'associer les objectifs de leur entreprise à des valeurs éthiques pour éviter un sentiment d'aliénation au travail.
+
+Question 2.1 :
+- Quand tu regardes les projets sur lesquels tu travailles ou les objectifs de ton entreprise, est-ce que tu as l’impression qu’ils s’alignent avec tes valeurs éthiques personnelles ?  
+
+Rebond 2.1 :
+- Si oui => Est ce que tu a choisis ces missions / entreprise pour cette raison ? => comment tu fais si demain on te propose un travail qui n'est pas alignée avec tes valeurs ?
+- Si non => Est ce que cela te pose probleme pour travailler ? si oui quelles problèmes ? Ou bien arrives tu a faire abstraction ? et si oui comment ?
+     
+Objectifs 2.1 :  
+- Identifier le niveau d’alignement valeurs/entreprise et surtout s'il existent une injonction des valeur et comment ils réagissent
+
+Question 2.2 :
+- Est-ce que tu as une vision claire de l'utilité sociale ou collective de ce que tu produis ? 
+- Si tu devais expliquer à un proche à quoi et a qui sert ton travail, comment tu le formulerais ?
+
+Rebonds 2.2 :
+- Si c'est floue => Est-ce que ce manque de visibilité sur l'utilité de ton travail te dérange ? Ou bien tu te concentre uniquement sur la partie techniques ?
+- Si la réponse est précise => Est-ce que cette clarté sur l'utilité t'aide à te motiver au quotidien ? Ou est-ce que tu as déjà douté, même sur des projets qui devraient avoir du sens ?
+
+Objectifs 2.2 :
+- Savoir si l'ingénieur perçoit son travail comme un moyen ou une fin
+- Identifier si le manque de visibilité sur l'impact génère de la frustration
+- Révéler des mécanismes de défense contre le sentiment d'alinéation
+
+### Recherche d'études, témoignages, articles en ligne 
+
+- Bibliothèque numérique du Cairn
+- Témoignages vidéo d'ingénieurs militant 
+- Site gouvernementaux
+- Article Le Monde, france inter...
+
+## Situations étudiée
+
+TODO: les évolutions du sujet
 
 ## Le concept d'éthique
 
@@ -89,15 +203,23 @@ Parmi les pressions externes on notera :
 
 - Le recrutement de nouveaux employés : Les candidats, notamment parmi les jeunes générations, accordent une importance croissante à l'éthique, à la diversité et à l'impact sociétal des organisations. Cette tendance pousse les entreprises à adapter et promouvoir leurs valeurs éthiques pour répondre aux attentes des talents qu'elles souhaitent intégrer.
 
+TODO: AJOUTER la théorie des valeurs prenantes
+
 #### La hiérarchie des valeurs chez iAdvize
 
 iAdvize possède 4 valeurs :
+
 1. Fun as a must have (bonheur au travail)
+
 2. Committed for better (inclusion, égalité au travail)
+
 3. Entrepreneur Spirit (encourage l'autonomie, la flexibilité et l'initiative)
+
 4. Learning organization (encourage l'apprentissage et le développement personnel des employés)
 
 Voici l'ordre dans lequel ces valeurs sont présentées sur le site Internet d'iAdvize. Depuis un an et demi que je suis chez iAdvize, j'ai pu voir le rayonnement de toutes ces valeurs. Officiellement, ce sont les 4 valeurs d'iAdvize, mais dans les faits, l'entreprise s'engage également sur d'autres terrains, comme par exemple l'écologie, publiquement ou en interne. L'environnement est une valeur forte chez iAdvize, avec une dizaine d'affiches dans les bureaux et l'opération "Fresque du climat" qui est un temps de 3 heures que tous les employés de l'entreprise ont suivi.
+
+TODO: MONTRER QUE DANS LE CAS d'iAdvize, la théorie des valeurs prenantes ne marche pas quand on regarde uniquement les valeurs publique de iAdvize => il existe d'autre valeurs moins mise en avant
 
 ### L'éthique au sein de l'individu
 
@@ -127,6 +249,8 @@ De même, **les ingénieurs en informatique** apparaissent dans la catégorie de
 Malgré des conditions matérielles souvent adéquates (outils informatiques, collègues disponibles, autonomie), ces cadres peuvent souffrir de frustration liée à l’absence de reconnaissance ou au manque d’impact perçu.
 L'étude de la Dares montre alors que ces tensions les exposent à des risques accru de troubles du sommeil, de stress et de baisse du bien-être psychologique, surtout lorsqu’ils se retrouvent dans des situations où la qualité doit être sacrifiée ou lorsque leur utilité sociale semble floue.
 
+TODO: APPUYER AVEC DES ENTRETIENS
+
 #### L'importance d'un cadre éthique pour les ingénieurs
 
 > Une des raisons profondes de notre incapacité à comprendre est liée, selon Hannah Arendt, à l'usage d'un "langage" de symboles mathématiques. Au début, écrit-elle, cet usage avait pour but de simplifier la communication en concevant des abréviations pour des propositions d'énoncés formulables par la parole. Il "contient à présent des propositions absolument intraduisibles dans le langage" (Arendt, 1961/1958 : 3). Ainsi, si les scientifiques n'ont pas refusé de développer des armes nucléaires, ce n'est pas d'abord, selon elle, par manque de caractère ou de courage ou encore par naïveté, parce qu'"ils n'auraient pas compris qu'une fois ces armes inventées, ils seraient les derniers consultés sur leur emploi". Ils n'ont pas refusé de poursuivre leur recherche parce qu'"ils évoluaient dans un monde où le langage a perdu son pouvoir. Et toute action de l'homme, tout savoir, toute expérience n'a de sens que dans la mesure où l'on peut en parler".
@@ -151,15 +275,16 @@ Ainsi, l'ingénieur informaticien peut se retrouver concepteur d'un système don
 
 Et ce problème est toujours d'actualité avec plus récemment les majeurs avancée dans le développement des algorithmes d'apprentissage automatique utilisés notamment dans la reconnaissance faciale ou les systèmes de recommandation. Ces systèmes peuvent avoir des implications sociales et politiques considérables, comme la surveillance de masse ou encore la propagation de fausses informations... 
 
-## Les données
-
-# Préconisations
+TODO: Comparé cette théorie avec le terrain (entretien)
 
 # Conclusion et ouverture
 
-# Annexes
+TODO: Reintroduire problématique
+TODO: Passé sur ce qui a était dit et sur quelles hypothèse ont était vérifier et celle non
+TODO: Ouvrir sur les potentiels autre sujet qui sur lequelles on aurait pu faire un micro mémaoire
+TODO: + les trucs que je me suis dit que j'aurais pus faire pour avoir + de matière mais que j'ai pas fait
 
-## Illustrations / Tables
+# Annexes / Table des figures
 
 <div style="text-align: center;">
     <img src="./assets/conflits-de-valeurs-au-travail-graphique.png" alt="" width="600"/>
@@ -169,6 +294,8 @@ d’exposition aux conflits de valeurs</strong>
     <br>
     <em>enquête CT-RPS 2016, Dares, DGAFP, Drees et Insee.</em>
 </div>
+
+TODO: PREUVE D'entretiens informelles
 
 # Bibliographie
 

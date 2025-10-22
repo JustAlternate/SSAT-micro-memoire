@@ -2,10 +2,10 @@
 .PHONY: toc
 
 toc:
-	gh-md-toc README.md
+	gh-md-toc final.md
 
 pdf:
-	pandoc README.md -s -o Rendu.pdf \
+	pandoc final.md -s -o Rendu.pdf \
 	-V geometry:margin=1.3in \
 
 clean:
