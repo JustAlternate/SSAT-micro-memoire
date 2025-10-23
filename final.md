@@ -9,19 +9,7 @@ pagestyle: empty
 
 # Les valeurs éthiques des ingénieurs dans les organisations
 
-TODO: page de garde (logo entreprise, CFA, polytech, tuteur entreprise et ssat)
-TODO: pagination, changer de page a chaque gros chapitre (peut etre mettre mon nom en bas a toutes les pages ?)
-
 # Les Remerciements
-
-Sommaire
-=================
-
-TODO: sommaire ici
-
-# Glossaire
-
-TODO: les mots compliqués
 
 # Introduction
 
@@ -303,6 +291,8 @@ TODO: PREUVE D'entretiens informelles
 - Julia de Funes - *La comédie (in)humaine*
 - Orse - *Ethique, responsabilité et stratégie d'entreprise*
 - Christelle Didier - *Hannah Arendt, figure inspirante pour la formation en éthique des ingénieurs*
+
+- [Inventer le train c'est inventer le deraillement](https://www.lemonde.fr/vous/article/2009/01/15/paul-virilio-penser-la-vitesse_1142442_3238.html)
 
 - [Proces de l'agent orange pour Monsanto](https://lareleveetlapeste.fr/proces-de-lagent-orange-monsanto-et-lagro-chimie-devant-la-justice/)
 

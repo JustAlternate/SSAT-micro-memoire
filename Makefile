@@ -1,12 +1,15 @@
-.PHONY: pdf
-.PHONY: toc
+tex:
+	# Première compilation
+	pdflatex memoire.tex
 
-toc:
-	gh-md-toc final.md
+	# Pour la bibliographie
+	biber memoire
 
-pdf:
-	pandoc final.md -s -o Rendu.pdf \
-	-V geometry:margin=1.3in \
+	# Pour le glossaire
+	makeglossaries memoire
 
-clean:
-	rm -rf Rendu.pdf
+	# Deux dernières compilations pour les références croisées
+	pdflatex memoire.tex
+	pdflatex memoire.tex
+
+	rm memoire.aux memoire.bbl memoire.bcf memoire.blg memoire.glg memoire.glo memoire.gls memoire.glsdefs memoire.ist memoire.log memoire.out memoire.run.xml memoire.toc
