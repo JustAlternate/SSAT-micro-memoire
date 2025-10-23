@@ -7,7 +7,7 @@ pagestyle: empty
 
 **Weber Loïc IDIA4**
 
-# Les valeurs éthiques des ingénieurs en entreprise
+# Les valeurs éthiques des ingénieurs dans les organisations
 
 TODO: page de garde (logo entreprise, CFA, polytech, tuteur entreprise et ssat)
 TODO: pagination, changer de page a chaque gros chapitre (peut etre mettre mon nom en bas a toutes les pages ?)
@@ -21,46 +21,51 @@ TODO: sommaire ici
 
 # Glossaire
 
+TODO: les mots compliqués
+
 # Introduction
 
-TODO:
-Quelle sujet j'ai travaillé ?  
-c'est quoi ma problématique ?  
-c'est quoi mes hypothèses ?  
-L'histories, les situations passées où l'éthique était important (monsanto, openheimer, guerre du vietnam...)
+Historiquement, la notion de valeur était biologique, associée à la survie humaine. Avec l'apparition de la monnaie, elle est devenue un capital (terres, or…). 
+Puis, dans l'économie de marché, elle s'est largement financiarisée, perdant une grande partie de son lien avec l'humain.
+Aujourd'hui, bien qu'encore financières, les valeurs retrouvent une dimension humaine, devenant également culturelles, morales, éthiques, sociales et environnementales. Cette ré-humanisation des valeurs s'inscrit historiquement après de nombreux événements emblématiques où les valeurs éthiques ont été négligées au profit de la réussite financière, militaire ou technique.
 
-En tant qu'Alternant Ingénieur Platform, mon métier consiste a construire une platform de développement pour les ingénieurs développeurs. Dans cette mission, je suis donc résponsable du bon fonctionnement et de l'amélioration continue des outils de travail de ces ingénieurs, afin d'augmenter la vélocité a laquelle ils créent et déploient de nouvelles fonctionnalités a nos clients. J'occupe ce role au sein de l'entreprise iAdvize.
+Parmi ces événements, on retrouve le cas de Monsanto, une entreprise dont la réputation a été gravement ternie par des accusations d'écocide de par la vente de l'Agent Orange à l'armée américaine pendant la guerre du Vietnam.
+Les ingénieurs de Monsanto, ainsi que d'autres entreprises chimiques, savaient que l'Agent Orange était toxique mais ont continué à le produire et à le fournir à l'armée américaine.
+Les conséquences de ces actions ont été dévastatrices pour l'environnement et la santé des populations locale, causant des maladies graves et des malformations qui ont fait 3 millions de victimes direct et indirect et a conduit à de nombreuses plaintes contre Monsanto et d'autres entreprises impliquées.
 
-iAdvize est un éditeur de logiciel (SAAS) de taille moyenne (~150 employés). Elle occupe une place importante dans l'écosystème du E-commerce européen.
-Avec des clients dans une dizaine de pays, elle a pour objectif de révolutionner l'expérience d'achat en ligne en y intégrant une dimension conversationnelle.
+On peut aussi citer le Projet Manhattan lors de la Seconde Guerre mondiale, dirigé par Robert Oppenheimer, qui a conduit au développement de la bombe atomique. Après les bombardements d'Hiroshima et de Nagasaki, de nombreux scientifiques, y compris Oppenheimer, ont exprimé des remords et des dilemmes éthiques concernant leur participation à ce projet.
 
-iAdvize comme toutes entreprise moderne possèdent des valeurs. 
+Ces événements soulèvent d'importantes questions sur la responsabilité éthique des ingénieurs et des organisations.
 
-Mais quelles sont ces valeurs ? et comment s'articulent t'elles autour des valeurs éthiques individuelle des ingénieurs qui conçoient les systèmes que iAdvize vend ?
+En tant que futur ingénieur, je ressens souvent une forme de tension entre mes valeurs et la réalité du monde du travail.
+Certaines perspectives de carrière, comme celles proposées dans la finance ou l’assurance, me semblent complètement contradictoires avec mes valeurs.
+Mais pour avoir beaucoup discuté avec d'autres ingénieurs, je sais que ce sentiment n'est pas partagé par tous.
+
+L’exemple des ingénieurs d’AgroParisTech, qui ont publiquement exprimé leur désaccord avec les valeurs de certaines industries, me touche personnellement.
+Ces jeunes ingénieurs, tout juste sortis de l'école, refusent de se soumettre à une logique purement économique ou industrielle au détriment de l’éthique.
+
+Actuellement alternant ingénieur Platform, mon métier consiste à construire une plateforme de développement pour les ingénieurs développeurs.
+Dans cette mission, je suis donc responsable du bon fonctionnement et de l'amélioration continue des outils de travail de ces ingénieurs, afin d'augmenter la vélocité à laquelle ils créent et déploient de nouvelles fonctionnalités à nos clients.
+J'occupe ce rôle au sein de l'entreprise iAdvize.
+
+iAdvize est un éditeur de logiciel (SAAS) de taille moyenne (~150 employés).
+Elle occupe une place importante dans l'écosystème du E-commerce européen. Avec des clients dans une dizaine de pays, elle a pour objectif de révolutionner l'expérience d'achat en ligne en y intégrant une dimension conversationnelle.
+
+iAdvize, comme toute entreprise moderne, possède des valeurs.
+
+Mais quelles sont ces valeurs et comment s'articulent-elles autour des valeurs éthiques individuelles des ingénieurs qui conçoivent les systèmes que iAdvize vend ?
 
 Ainsi nous tenterons de répondre a la problématique suivante :
 
 Quelles sont les valeurs éthiques des ingénieurs et quelle est leur place dans les organisations dans lesquelles ils travaillent ?
 
-A partir de cette problématique, nous axerons notre mémoire sur les Hypothèses suivantes :
+A partir de cette problématique, nous axerons notre mémoire sur les hypothèses suivantes :
 
 - Les ingénieurs ont besoin d'associer les objectifs de leur entreprise à des valeurs éthiques pour éviter un sentiment d'aliénation au travail.
 
 - Soucieux des enjeux écologiques et sociaux actuels, les jeunes ingénieurs tendent à se détourner de certains secteurs pour privilégier des organisations qui tentent de répondre concrètement aux problématiques actuelles et qui mettent l'humain au coeur de leur démarche.
 
 - Les ingénieurs ont le besoin d'être tenu dans un cadre éthique pour éviter que leurs créations techniques ne soient détournées à des fins contraires à l'intérêt général.
-
-## Motivation sur le sujet de l'éthique
-
-En tant que future ingénieur, je ressens souvent une forme de tension entre mes valeurs et la réalité du monde du travail.
-Certaines perspectives de carrière, comme celles proposées dans la finance ou l’assurance, me semble complétement contradictoire avec mes valeurs.
-Mais pour avoir beaucoup discuté avec d'autre ingénieur, je sais que ce sentiment n'est pas partagé par tous.
-
-L’exemple des ingénieurs d’AgroParisTech, qui ont publiquement exprimé leur désaccord avec les valeurs de certaines industries me touche personnellement, ces jeunes ingénieurs tout juste sortie d'école refusent de se soumettre à une logique purement économique ou industrielle au détriment de l’éthique.
-
-Mon objectif est double :
-1. Comprendre quelles sont les valeurs des ingénieurs et comment ils les rendent compatibles avec leur travail.
-2. Étudier pourquoi les organisations, historiquement et stratégiquement, ont choisi d'adopter des valeurs éthiques.
 
 # Développement
 
@@ -177,12 +182,6 @@ Observer les valeurs éthiques d'une entreprise permet de mettre en évidence se
 
 Ces valeurs définissent de manière sous-jacente les croyances, les principes et la culture interne de l'organisation. Elles influencent également fortement son image externe.
 
-Historiquement, la notion de valeur était biologique, associée à la survie humaine. Avec l'apparition de la monnaie, elle est devenue un capital (terres, or…). Puis, dans l'économie de marché, elle s'est largement financiarisée, perdant une grande partie de son lien avec l'humain. Aujourd'hui, bien qu'encore financières, les valeurs retrouvent une dimension humaine, devenant également culturelles, morales, éthiques, sociales et environnementales.
-
-Une entreprise ne peut plus se contenter uniquement de son capital financier. Prenons l'exemple de Monsanto, une entreprise dont la réputation a été gravement ternie par des accusations d'écocide et par la vente de l'agent orange à l'armée américaine pendant la guerre du Vietnam, causant de lourdes conséquences humaines et environnementales.
-
-L'exemple de Monsanto peut sembler extrême, mais de nos jours, les entreprises se voient dans l'obligation de structurer leurs activités autour de valeurs éthiques.
-
 > Réfléchir à la notion de valeur en entreprise permet de rendre compte des atouts et attraits de l'entreprise au présent, mais aussi et surtout de rassurer les employés, managers et investisseurs sur sa pérennité.
 
 - "Tendances économiques et sociales de la valeur en entreprise" de Valérie Lejeune
@@ -227,7 +226,8 @@ L'éthique de l'ingénieur ne se limite pas à un ensemble de règles morales pe
 
 > l’ingénieur doit inscrire ses actes dans une démarche de développement durable, faire prendre conscience de l’impact de la technique sur l’environnement et mettre ses compétences au service du bien commun.
 
-Cette charte, considérée comme une profession de foi pour les ingénieurs et scientifique de france, reconnaît que le progrès technique n’est pas neutre. Les avancées qu’il apporte à la société peuvent être porteuses de risques et de nuisances si elles ne sont pas encadrées par une réflexion éthique. Comme le souligne son préambule, les ingénieurs ont un rôle essentiel et double : maîtriser les technologies au service de la communauté humaine et diffuser une information claire sur leurs limites, leurs risques et leurs avantages
+Cette charte, considérée comme une profession de foi pour les ingénieurs et scientifique de france, reconnaît que le progrès technique n’est pas neutre. (comme vu avec le projet manhattan) Les avancées qu’il apporte à la société peuvent être porteuses de risques et de nuisances si elles ne sont pas encadrées par une réflexion éthique puisque inventé le train c'est aussi inventé le deraillement !
+Les ingénieurs ont un rôle essentiel et double : maîtriser les technologies au service de la communauté humaine et diffuser une information claire sur leurs limites, leurs risques et leurs avantages
 
 #### L'injonction de valeurs au travail
 
@@ -303,6 +303,8 @@ TODO: PREUVE D'entretiens informelles
 - Julia de Funes - *La comédie (in)humaine*
 - Orse - *Ethique, responsabilité et stratégie d'entreprise*
 - Christelle Didier - *Hannah Arendt, figure inspirante pour la formation en éthique des ingénieurs*
+
+- [Proces de l'agent orange pour Monsanto](https://lareleveetlapeste.fr/proces-de-lagent-orange-monsanto-et-lagro-chimie-devant-la-justice/)
 
 - [Charte éthique de l'ingénieur par la société des ingénieurs et scientifiques de france](https://www.iesf.fr/offres/doc_inline_src/752/150731_Charte_ethique.pdf)
 
