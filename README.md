@@ -274,3 +274,5 @@ Deux mois après l'interview de Lina, celle-ci indique :
 * [Les entreprises qui abandonne la politique de DEI](https://www.business-world.fr/entreprises-aux-etats-unis-qui-ont-abandonne-leurs-objectifs-de-diversite-dequite-et-dinclusion/)
 
 * [Etude de la Dares sur les conflits de valeurs au travails et leurs risques sur la santé](https://dares.travail-emploi.gouv.fr/publication/conflits-de-valeurs-au-travail-qui-est-concerne-et-quels-liens-avec-la-sante)
+
+* [Une analyse historique du concept de parties prenantes : Quelles leçons pour l'avenir ?](https://doi.org/10.3917/mav.033.0142)
